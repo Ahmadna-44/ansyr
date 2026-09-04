@@ -1,0 +1,600 @@
+/* ============================================================
+   style.css — الهوية البصرية النيونية المشتركة بين كل الصفحات
+   ============================================================ */
+
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@500;700;900&family=Cairo:wght@400;600;800&family=IBM+Plex+Mono:wght@500;600&display=swap');
+
+:root{
+  --bg:#05060f;
+  --bg2:#0b0e1e;
+  --panel:rgba(18,22,42,.72);
+  --panel-solid:#11142a;
+  --border:rgba(120,160,255,.18);
+  --text:#eaf3ff;
+  --muted:#8592b5;
+
+  --neon-cyan:#00f0ff;
+  --neon-purple:#b24bff;
+  --neon-pink:#ff3fa4;
+  --neon-green:#3dffa0;
+  --neon-red:#ff4d6d;
+  --neon-amber:#ffb84d;
+
+  --grad-main: linear-gradient(120deg, var(--neon-cyan), var(--neon-purple) 55%, var(--neon-pink));
+  --shadow-glow: 0 0 24px rgba(0,240,255,.25);
+  --radius: 18px;
+  --radius-sm: 12px;
+}
+
+html[data-theme="light"]{
+  /* هوية فاتحة جديدة — نظيفة وواضحة، مع الحفاظ الكامل على ألوان الوضع الداكن */
+  --bg:#f6f9ff;
+  --bg2:#eaf2ff;
+  --panel:rgba(255,255,255,.88);
+  --panel-solid:#ffffff;
+  --border:rgba(23,65,120,.16);
+  --text:#10233f;
+  --muted:#5b6f89;
+
+  --neon-cyan:#087ea4;
+  --neon-purple:#6250c9;
+  --neon-pink:#c83f88;
+  --neon-green:#12824c;
+  --neon-red:#c9364f;
+  --neon-amber:#a86a08;
+
+  --grad-main:linear-gradient(120deg,#087ea4,#6250c9 55%,#c83f88);
+  --shadow-glow:0 0 22px rgba(8,126,164,.16);
+}
+
+*{box-sizing:border-box;}
+html,body{margin:0;padding:0;}
+body{
+  min-height:100vh;
+  font-family:'Cairo',sans-serif;
+  color:var(--text);
+  background:
+    radial-gradient(circle at 15% 0%, rgba(178,75,255,.20), transparent 45%),
+    radial-gradient(circle at 85% 10%, rgba(0,240,255,.16), transparent 40%),
+    radial-gradient(circle at 50% 100%, rgba(255,63,164,.14), transparent 45%),
+    var(--bg);
+  background-attachment:fixed;
+  transition:background .4s ease,color .3s ease;
+  direction:rtl;
+}
+.bg-grid{
+  position:fixed; inset:0; z-index:-1; pointer-events:none;
+  background-image:none;
+  opacity:0;
+}
+h1,h2,h3,.display{ font-family:'Tajawal',sans-serif; font-weight:900; letter-spacing:.2px; }
+.mono{ font-family:'IBM Plex Mono',monospace; }
+a{color:inherit; text-decoration:none;}
+button{font-family:inherit;}
+
+/* ---------- top bar ---------- */
+.topbar{
+  position:sticky; top:0; z-index:40;
+  display:flex; align-items:center; justify-content:space-between;
+  gap:12px; padding:10px 18px;
+  background:var(--panel); backdrop-filter:blur(14px);
+  border-bottom:1px solid var(--border);
+}
+.brand{ display:flex; align-items:center; gap:10px; }
+.uni-logo{
+  width:42px; height:42px; border-radius:50%;
+  display:flex; align-items:center; justify-content:center;
+  background:var(--grad-main); box-shadow:var(--shadow-glow);
+  font-family:'Tajawal',sans-serif; font-weight:900; color:#04040a; font-size:15px;
+}
+.brand-text .t1{ font-size:12px; color:var(--muted); }
+.brand-text .t2{ font-family:'Tajawal',sans-serif; font-weight:800; font-size:15px; }
+.uni-logo-lg{
+  width:74px; height:74px; margin:0 auto 8px; border-radius:50%;
+  display:flex; align-items:center; justify-content:center;
+  background:var(--grad-main); box-shadow:0 0 40px rgba(0,240,255,.35);
+  font-family:'Tajawal',sans-serif; font-weight:900; color:#04040a; font-size:24px;
+}
+.top-actions{ display:flex; align-items:center; gap:10px; }
+.icon-btn{
+  width:40px; height:40px; border-radius:50%; border:1px solid var(--border);
+  background:var(--panel-solid); color:var(--text); cursor:pointer;
+  display:flex; align-items:center; justify-content:center; font-size:17px;
+  transition:.2s; position:relative;
+}
+.icon-btn:hover{ box-shadow:0 0 14px rgba(0,240,255,.4); transform:translateY(-1px); }
+.badge-dot{
+  position:absolute; top:2px; left:2px; width:9px; height:9px; border-radius:50%;
+  background:var(--neon-pink); box-shadow:0 0 8px var(--neon-pink);
+}
+
+/* ---------- layout helpers ---------- */
+.page{ max-width:980px; margin:0 auto; padding:26px 16px 60px; }
+.center{ text-align:center; }
+.muted{ color:var(--muted); }
+.section-title{ font-size:22px; margin:0 0 4px; }
+.hero{ text-align:center; padding:34px 10px 10px; }
+.hero p{ color:var(--muted); margin-top:6px; }
+
+/* ---------- glass card ---------- */
+.card{
+  background:var(--panel); border:1px solid var(--border); border-radius:var(--radius);
+  backdrop-filter:blur(10px); padding:18px;
+}
+
+/* ---------- service buttons ---------- */
+.services{ display:grid; gap:16px; margin-top:26px; grid-template-columns:1fr; }
+@media(min-width:680px){ .services{ grid-template-columns:repeat(3,1fr);} }
+.service-btn{
+  cursor:pointer; text-align:center; padding:26px 14px; border-radius:var(--radius);
+  background:var(--panel); border:1px solid var(--border); position:relative; overflow:hidden;
+  transition:transform .25s ease, box-shadow .25s ease; isolation:isolate;
+}
+.service-btn::before{
+  content:""; position:absolute; inset:-2px; z-index:-1; border-radius:inherit;
+  background:var(--grad-main); opacity:0; transition:opacity .3s;
+}
+.service-btn:hover{ transform:translateY(-6px); box-shadow:0 12px 30px rgba(0,240,255,.18); }
+.service-btn:hover::before{ opacity:.55; filter:blur(10px); }
+.service-btn .ico{ font-size:34px; display:block; margin-bottom:10px; }
+.service-btn .name{ font-family:'Tajawal',sans-serif; font-weight:800; font-size:17px; }
+.service-btn .desc{ color:var(--muted); font-size:12.5px; margin-top:6px; }
+
+/* ---------- buttons ---------- */
+.btn{
+  display:inline-flex; align-items:center; justify-content:center; gap:8px;
+  padding:11px 20px; border-radius:999px; border:1px solid var(--border);
+  background:var(--panel-solid); color:var(--text); cursor:pointer; font-weight:700;
+  font-size:14px; transition:.2s;
+}
+.btn:hover{ box-shadow:0 0 16px rgba(0,240,255,.35); transform:translateY(-1px); }
+.btn-glow{ border:none; background:var(--grad-main); color:#04040a; box-shadow:var(--shadow-glow); }
+.btn-glow:hover{ filter:brightness(1.08); }
+.btn-ghost{ background:transparent; }
+.btn:disabled{ opacity:.4; cursor:not-allowed; }
+
+/* ---------- tabs ---------- */
+.tabs{ display:flex; gap:8px; margin-bottom:18px; flex-wrap:wrap; }
+.tab{
+  padding:9px 16px; border-radius:999px; border:1px solid var(--border); cursor:pointer;
+  background:var(--panel-solid); color:var(--muted); font-weight:700; font-size:13.5px;
+}
+.tab.active{ color:#04040a; background:var(--grad-main); border-color:transparent; }
+
+/* ---------- inputs ---------- */
+.field{ margin-bottom:14px; }
+.field label{ display:block; font-size:13px; color:var(--muted); margin-bottom:6px; }
+.field input, .field select{
+  width:100%; padding:12px 14px; border-radius:var(--radius-sm); border:1px solid var(--border);
+  background:var(--panel-solid); color:var(--text); font-family:'IBM Plex Mono',monospace; font-size:15px;
+}
+.field input:focus, .field select:focus{ outline:none; box-shadow:0 0 0 3px rgba(0,240,255,.25); }
+
+/* ---------- student list rows ---------- */
+.stu-row{
+  display:flex; align-items:center; justify-content:space-between; gap:10px;
+  padding:13px 16px; border-radius:var(--radius-sm); border:1px solid var(--border);
+  background:var(--panel-solid); margin-bottom:9px; cursor:pointer; transition:.2s;
+}
+.stu-row:hover{ box-shadow:0 0 14px rgba(0,240,255,.2); transform:translateX(-2px); }
+.stu-row .name{ font-weight:800; font-family:'Tajawal',sans-serif; }
+.stu-row .sub{ font-size:12px; color:var(--muted); }
+.stu-row .arrow{ font-size:18px; color:var(--neon-cyan); }
+
+/* ---------- result header ---------- */
+.result-head{ display:flex; flex-wrap:wrap; gap:10px 26px; margin-bottom:18px; }
+.result-head .item .k{ font-size:12px; color:var(--muted); }
+.result-head .item .v{ font-family:'Tajawal',sans-serif; font-weight:800; font-size:16px; }
+
+/* ---------- gauge ---------- */
+.gauge-wrap{ display:flex; flex-direction:column; align-items:center; gap:6px; margin:10px 0 20px; }
+.gauge-val{ font-family:'IBM Plex Mono',monospace; font-weight:700; font-size:26px; }
+.gauge-label{ color:var(--muted); font-size:13px; }
+.status-pill{
+  display:inline-block; margin-top:6px; padding:5px 16px; border-radius:999px;
+  font-weight:800; font-size:13px; font-family:'Tajawal',sans-serif;
+}
+
+/* ---------- tables (fixed layout, always visible on mobile) ---------- */
+.grades-table{
+  width:100%; border-collapse:collapse; table-layout:fixed;
+  border:1px solid var(--border); border-radius:var(--radius-sm); overflow:hidden;
+  font-size:12.5px; margin-bottom:6px;
+}
+.grades-table th, .grades-table td{
+  border:1px solid var(--border); padding:7px 4px; text-align:center; word-break:break-word;
+}
+.grades-table th{ background:rgba(0,240,255,.08); font-family:'Tajawal',sans-serif; font-size:12px; }
+.grades-table td.subj{ text-align:right; padding-right:8px; font-size:12px; }
+.grades-table td.grade{ font-family:'IBM Plex Mono',monospace; font-weight:700; }
+.grades-table tr.pass td.status{ color:var(--neon-green); font-weight:800; }
+.grades-table tr.fail td.status{ color:var(--neon-red); font-weight:800; }
+.grades-table tr.pending td.status{ color:var(--muted); }
+.grades-table tr.avg-row td{ font-weight:800; }
+.avg-row.s1{ background:rgba(0,240,255,.14); }
+.avg-row.s2{ background:rgba(255,63,164,.14); }
+.table-title{ font-family:'Tajawal',sans-serif; font-weight:800; margin:22px 0 8px; }
+
+/* ---------- student card ---------- */
+.stat-grid{ display:grid; grid-template-columns:1fr 1fr; gap:10px; margin-top:14px; }
+.stat-box{
+  border:1px solid var(--border); border-radius:var(--radius-sm); padding:12px; text-align:center;
+  background:var(--panel-solid);
+}
+.stat-box .k{ font-size:11.5px; color:var(--muted); }
+.stat-box .v{ font-family:'IBM Plex Mono',monospace; font-weight:800; font-size:17px; margin-top:4px; }
+
+/* ---------- actions row ---------- */
+.actions-row{ display:flex; gap:10px; margin-top:20px; flex-wrap:wrap; justify-content:center; }
+
+/* ---------- podium ---------- */
+.podium{ display:flex; align-items:flex-end; justify-content:center; gap:14px; margin:26px 0; }
+.pod-item{ text-align:center; width:100px; }
+.pod-medal{ font-size:30px; }
+.pod-bar{ border-radius:14px 14px 0 0; margin-top:8px; display:flex; align-items:flex-start; justify-content:center; padding-top:10px; font-weight:800; color:#04040a; font-family:'IBM Plex Mono',monospace;}
+.pod-1 .pod-bar{ height:110px; background:linear-gradient(180deg,#ffe37a,#ffb84d); box-shadow:0 0 26px rgba(255,184,77,.5);}
+.pod-2 .pod-bar{ height:84px; background:linear-gradient(180deg,#e7ecff,#b9c3e6); box-shadow:0 0 20px rgba(180,190,230,.4);}
+.pod-3 .pod-bar{ height:62px; background:linear-gradient(180deg,#ffb489,#cc7a4d); box-shadow:0 0 20px rgba(204,122,77,.4);}
+.pod-name{ font-size:12.5px; margin-top:6px; font-weight:700; }
+
+/* ---------- ribbons / confetti ---------- */
+.confetti-piece{
+  position:fixed; top:-20px; z-index:200; pointer-events:none; border-radius:2px;
+  animation:fall linear forwards;
+}
+@keyframes fall{
+  to{ transform:translateY(110vh) rotate(600deg); opacity:.9; }
+}
+
+/* ---------- notif drawer ---------- */
+.drawer-backdrop{ position:fixed; inset:0; background:rgba(0,0,0,.5); z-index:60; }
+.drawer{
+  position:fixed; top:0; left:0; height:100%; width:min(340px,86vw); z-index:61;
+  background:var(--panel-solid); border-left:1px solid var(--border);
+  padding:18px; overflow-y:auto; animation:slideIn .25s ease;
+}
+@keyframes slideIn{ from{ transform:translateX(-100%);} to{ transform:translateX(0);} }
+.notif-item{ border:1px solid var(--border); border-radius:var(--radius-sm); padding:12px; margin-bottom:10px; }
+.notif-item .ti{ font-weight:800; font-family:'Tajawal',sans-serif; font-size:14px; }
+.notif-item .bo{ font-size:12.5px; color:var(--muted); margin-top:4px; }
+.notif-item .da{ font-size:10.5px; color:var(--muted); margin-top:6px; font-family:'IBM Plex Mono',monospace; }
+
+/* ---------- footer nav ---------- */
+.back-link{ display:inline-flex; align-items:center; gap:6px; margin-bottom:16px; color:var(--neon-cyan); font-weight:700; cursor:pointer; }
+
+/* ---------- print sheet (screen preview + print) ---------- */
+.print-sheet{
+  background:#fff; color:#111; width:100%; max-width:760px; margin:0 auto;
+  padding:26px; border-radius:8px; font-family:'Cairo',sans-serif;
+}
+.print-head{ display:flex; justify-content:space-between; align-items:flex-start; border-bottom:2px solid #111; padding-bottom:10px; margin-bottom:14px;}
+.print-head .right{ text-align:right; font-size:12.5px; line-height:1.7;}
+.print-head .left{ text-align:left; font-size:12.5px; line-height:1.7;}
+.print-logo{ width:56px; height:56px; border-radius:50%; background:#111; color:#fff; display:flex; align-items:center; justify-content:center; font-weight:900; margin:0 auto 4px; font-family:'Tajawal',sans-serif;}
+.print-table{ width:100%; border-collapse:collapse; table-layout:fixed; font-size:11.5px; margin-bottom:10px;}
+.print-table th,.print-table td{ border:1px solid #111; padding:5px 3px; text-align:center;}
+.print-table td.subj{ text-align:right; padding-right:6px;}
+.print-foot{ display:flex; justify-content:space-between; align-items:center; margin-top:16px; }
+.print-status-ناجح{ color:#0a7a3d; font-weight:800;}
+.print-status-منقول{ color:#b06a00; font-weight:800;}
+.print-status-راسب{ color:#b30d2e; font-weight:800;}
+
+@media print{
+  body *{ visibility:hidden; }
+  #printArea, #printArea *{ visibility:visible; }
+  #printArea{ position:absolute; top:0; right:0; width:100%; }
+  .no-print{ display:none !important; }
+}
+
+/* ---------- misc ---------- */
+.empty{ text-align:center; color:var(--muted); padding:30px 10px; }
+.spark{ color:var(--neon-cyan); }
+::-webkit-scrollbar{ width:8px; }
+::-webkit-scrollbar-thumb{ background:var(--border); border-radius:4px; }
+
+@media (max-width:420px){
+  .grades-table{ font-size:11px; }
+  .result-head{ gap:8px 16px; }
+}
+
+/* ---------- لوحة التحكم: عرض أسماء الطلاب حسب المواد المحمولة ---------- */
+.admin-status-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;}
+.admin-status-grid .stat-box{display:flex;justify-content:space-between;align-items:center;gap:10px;}
+.carried-filter-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:9px;}
+.carried-filter{
+  border:1px solid var(--border);background:var(--panel-solid);color:var(--text);
+  border-radius:12px;padding:10px 8px;cursor:pointer;font-family:inherit;
+  display:flex;flex-direction:column;gap:4px;align-items:center;transition:.2s;
+}
+.carried-filter:hover{transform:translateY(-2px);box-shadow:0 0 14px rgba(0,240,255,.18);}
+.carried-filter.active{background:var(--grad-main);color:#04040a;border-color:transparent;box-shadow:var(--shadow-glow);}
+.carried-filter b{font-family:'IBM Plex Mono',monospace;font-size:16px;}
+.carried-list-title{font-family:'Tajawal',sans-serif;font-weight:900;margin-bottom:10px;display:flex;justify-content:space-between;gap:10px;}
+.carried-list-title span{font-family:'IBM Plex Mono',monospace;color:var(--muted);font-size:12px;}
+.admin-student-row{cursor:default;}
+.admin-student-row:hover{transform:none;}
+.carried-badge{font-size:11px;font-weight:800;padding:5px 9px;border:1px solid var(--border);border-radius:999px;color:var(--neon-cyan);white-space:nowrap;}
+
+/* ---------- الطباعة: A4 عمودي، كل شيء في صفحة واحدة ---------- */
+#printHolder{display:none;}
+.print-sheet{
+  width:210mm; max-width:none; min-height:0; margin:0 auto; padding:8mm 9mm 7mm;
+  background:#fff; color:#111; border-radius:0; font-family:'Cairo','Arial',sans-serif;
+  direction:rtl; box-shadow:none;
+}
+.print-head{
+  display:grid;grid-template-columns:1fr 70px 1fr;align-items:center;
+  min-height:25mm;border-bottom:1.4px solid #111;padding-bottom:4mm;margin-bottom:4mm;
+}
+.print-head-right{grid-column:1;text-align:right;font-size:11.4px;line-height:1.55;color:#000;font-weight:700;}
+.print-head-center{grid-column:2;text-align:center;}
+.print-head-left{grid-column:3;text-align:left;font-size:11.4px;line-height:1.55;color:#000;font-weight:700;}
+.print-university-logo{width:24mm;height:24mm;object-fit:contain;display:block;margin:auto;}
+.print-title{text-align:center;font-family:'Tajawal','Arial',sans-serif;font-weight:900;font-size:16px;margin:0 0 3mm;}
+.print-table{width:100%;border-collapse:collapse;table-layout:fixed;font-size:9.5px;margin:0 0 3mm;direction:rtl;}
+.print-table th,.print-table td{border:1px solid #111;padding:2.7mm 1.5mm;text-align:center;line-height:1.15;}
+.print-table th{font-weight:800;background:#f1f1f1;}
+.print-table td.subj{text-align:right;padding-right:3mm;}
+.print-info-table col{width:25%;}
+.print-table .subject-col{width:58%;}
+.print-section-title{font-family:'Tajawal','Arial',sans-serif;font-weight:900;font-size:11px;margin:2mm 0 1.2mm;display:flex;justify-content:space-between;align-items:center;}
+.print-section-title span{font-family:'Cairo','Arial',sans-serif;font-size:9px;font-weight:700;}
+.print-average-row td{font-weight:800;background:#f4f4f4;}
+.print-pass{color:#08783d;font-weight:800;}.print-fail{color:#b30d2e;font-weight:800;}.print-pending{color:#555;}
+.print-bottom{display:flex;direction:ltr;justify-content:space-between;align-items:center;border-top:1px solid #111;padding-top:3mm;margin-top:2mm;}
+.print-verification{direction:rtl;text-align:right;font-size:9px;line-height:1.55;display:flex;flex-direction:column;}
+.print-verification b{font-size:10px;}
+.qr-box{direction:rtl;text-align:center;min-width:30mm;}
+.qr-box img,.qr-box canvas{display:block;width:26mm!important;height:26mm!important;margin:0 auto 1mm;image-rendering:pixelated;}
+.qr-box small{font-size:7.5px;}
+
+@page{size:A4 portrait;margin:0;}
+@media print{
+  html,body{width:210mm;height:297mm;margin:0!important;padding:0!important;background:#fff!important;}
+  body *{visibility:hidden!important;}
+  #printHolder,#printArea,#printArea *{visibility:visible!important;}
+  #printHolder{display:block!important;position:static!important;}
+  #printArea{position:absolute!important;top:0!important;right:0!important;width:210mm!important;max-width:none!important;margin:0!important;padding:8mm 9mm 7mm!important;box-shadow:none!important;border-radius:0!important;}
+  .no-print{display:none!important;}
+}
+
+@media (max-width:700px){
+  .carried-filter-grid{grid-template-columns:repeat(3,1fr);}
+  .admin-status-grid{grid-template-columns:1fr;}
+  .print-sheet{width:100%;}
+}
+@media (max-width:420px){
+  .carried-filter-grid{grid-template-columns:repeat(2,1fr);}
+}
+.uni-logo img{width:34px;height:34px;object-fit:contain;border-radius:50%;}
+.uni-logo-lg img{width:60px;height:60px;object-fit:contain;border-radius:50%;}
+
+/* ---------- تحسين معلومات صفحة النتيجة ---------- */
+.result-head{
+  display:grid;
+  grid-template-columns:repeat(3,minmax(0,1fr));
+  gap:12px;
+  margin-bottom:18px;
+}
+.result-head .item{
+  position:relative;
+  min-height:82px;
+  padding:14px 16px;
+  border:1px solid var(--border);
+  border-radius:var(--radius);
+  background:var(--panel);
+  box-shadow:0 8px 24px rgba(0,0,0,.08);
+  backdrop-filter:blur(10px);
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  overflow:hidden;
+}
+.result-head .item::before{
+  content:"";
+  position:absolute;
+  inset:0 auto 0 0;
+  width:3px;
+  background:var(--grad-main);
+  box-shadow:0 0 12px rgba(0,240,255,.35);
+}
+.result-head .item .k{
+  font-size:11px;
+  color:var(--muted);
+  margin-bottom:5px;
+}
+.result-head .item .v{
+  font-family:'Tajawal',sans-serif;
+  font-weight:800;
+  font-size:16px;
+  line-height:1.45;
+  word-break:break-word;
+}
+
+html[data-theme="light"] body{
+  background:
+    radial-gradient(circle at 12% 0%, rgba(98,80,201,.10), transparent 42%),
+    radial-gradient(circle at 88% 8%, rgba(8,126,164,.10), transparent 38%),
+    radial-gradient(circle at 50% 100%, rgba(200,63,136,.07), transparent 42%),
+    var(--bg);
+}
+html[data-theme="light"] .bg-grid{opacity:.28;}
+
+@media(max-width:680px){
+  .result-head{grid-template-columns:1fr;}
+  .result-head .item{min-height:70px;}
+}
+
+/* ---------- ضبط الطباعة: الحجم الأصلي مع تباين أوضح ---------- */
+@media print{
+  @page{ size:A4 portrait; margin:0; }
+  html,body{ margin:0 !important; padding:0 !important; background:#fff !important; }
+  .print-sheet{
+    width:210mm !important;
+    max-width:none !important;
+    margin:0 !important;
+    padding:8mm 9mm 7mm !important;
+    border-radius:0 !important;
+    color:#050505 !important;
+    font-size:10px !important;
+  }
+  .print-head{border-bottom-color:#000 !important;}
+  .print-head-right,.print-head-left{font-size:11.4px !important;color:#000 !important;font-weight:700 !important;}
+  .print-title{font-size:16px !important;color:#000 !important;}
+  .print-table{font-size:9.5px !important;color:#050505 !important;}
+  .print-table th,.print-table td{border-color:#000 !important;color:#050505 !important;}
+  .print-table th{background:#ededed !important;color:#000 !important;}
+  .print-section-title{font-size:11px !important;color:#000 !important;}
+  .print-section-title span{color:#111 !important;}
+  .print-average-row td{background:#eeeeee !important;color:#000 !important;}
+  .print-verification{color:#050505 !important;}
+  .print-bottom{border-top-color:#000 !important;}
+  .print-pass{color:#006b32 !important;}
+  .print-fail{color:#a40020 !important;}
+  .print-pending{color:#333 !important;}
+}
+
+/* ---------- زيادة بسيطة جداً لخط الطباعة مع الحفاظ على أبعاد الجداول ---------- */
+@media print{
+  .print-head-right,.print-head-left{font-size:12px !important;line-height:1.5 !important;}
+  .print-title{font-size:16.5px !important;}
+  .print-table{font-size:10px !important;}
+  .print-table th,.print-table td{line-height:1.05 !important;}
+  .print-section-title{font-size:11.5px !important;}
+  .print-section-title span{font-size:9.5px !important;}
+  .print-verification{font-size:9.5px !important;}
+  .print-verification b{font-size:10.5px !important;}
+  .qr-box small{font-size:8px !important;}
+}
+
+textarea { width:100%; box-sizing:border-box; resize:vertical; font-family:inherit; }
+
+/* ---------- status ranking ---------- */
+.status-ranking-grid{display:grid;grid-template-columns:1fr;gap:16px;}
+.status-ranking-card{min-width:0;}
+.status-ranking-head{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:11px 13px;margin-bottom:12px;border:1px solid var(--border);border-right:4px solid;border-radius:12px;background:var(--panel-solid);}
+.status-ranking-head>div{display:flex;align-items:center;gap:8px;font-family:'Tajawal',sans-serif;font-size:16px;}
+.status-icon{font-size:17px;}
+.count-pill{min-width:34px;padding:4px 9px;border-radius:999px;background:var(--panel);border:1px solid var(--border);text-align:center;font-family:'IBM Plex Mono',monospace;font-weight:800;}
+.admin-ranking-row{cursor:pointer;}
+.rank-average{font-weight:900;font-size:15px;min-width:52px;text-align:center;}
+.ranking-status{display:inline-flex;align-items:center;justify-content:center;white-space:nowrap;padding:4px 9px;border-radius:999px;font-size:11px;font-weight:800;border:1px solid currentColor;}
+.ranking-status.status-pass{color:var(--neon-green);background:color-mix(in srgb, var(--neon-green) 10%, transparent);}
+.ranking-status.status-transfer{color:var(--neon-amber);background:color-mix(in srgb, var(--neon-amber) 10%, transparent);}
+.ranking-status.status-fail{color:var(--neon-red);background:color-mix(in srgb, var(--neon-red) 10%, transparent);}
+@media(min-width:900px){.status-ranking-grid{grid-template-columns:repeat(3,1fr);}.status-ranking-card .stu-row{padding:11px 12px;}.status-ranking-card .stu-row .name{font-size:13px;}.status-ranking-card .stu-row .sub{font-size:10.5px;}.status-ranking-card .rank-average{font-size:14px;}}
+
+/* ---------- الاعتراضات ---------- */
+.appeal-card{max-width:900px;margin:0 auto;}
+.appeal-student-summary{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;margin-top:12px;}
+.appeal-student-summary>div{padding:12px;border:1px solid var(--border);border-radius:var(--radius-sm);background:var(--panel-solid);}
+.appeal-student-summary span{display:block;color:var(--muted);font-size:12px;margin-bottom:4px;}
+.appeal-student-summary strong{font-family:'Tajawal',sans-serif;font-size:16px;}
+.subject-check-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;}
+.subject-check{display:flex;align-items:flex-start;gap:10px;padding:12px;border:1px solid var(--border);background:var(--panel-solid);border-radius:var(--radius-sm);cursor:pointer;transition:.2s;}
+.subject-check:hover{border-color:var(--neon-cyan);transform:translateY(-1px);}
+.subject-check input{width:18px;height:18px;margin-top:2px;accent-color:#00f0ff;}
+.subject-check span{display:block;min-width:0;}
+.subject-check b{display:block;font-family:'Tajawal',sans-serif;font-size:14px;}
+.subject-check small{display:block;color:var(--muted);font-size:11px;margin-top:4px;}
+.other-check{border-style:dashed;}
+.field textarea,.appeal-admin-actions textarea{width:100%;padding:12px 14px;border-radius:var(--radius-sm);border:1px solid var(--border);background:var(--panel-solid);color:var(--text);font-family:'Tajawal',sans-serif;font-size:14px;resize:vertical;}
+.field textarea:focus,.appeal-admin-actions textarea:focus{outline:none;box-shadow:0 0 0 3px rgba(0,240,255,.25);}
+.appeal-error{color:var(--neon-red);font-weight:700;}
+.appeal-success-card{max-width:680px;margin:20px auto;padding:28px;}
+.success-icon{font-size:54px;filter:drop-shadow(0 0 14px rgba(0,240,255,.35));}
+.request-number{margin:16px auto 0;width:max-content;max-width:100%;padding:12px 18px;border:1px solid var(--neon-cyan);border-radius:999px;color:var(--neon-cyan);font:800 18px 'IBM Plex Mono',monospace;letter-spacing:1px;overflow-wrap:anywhere;}
+.request-number.small{margin:0;padding:7px 11px;font-size:13px;}
+.appeal-card-inner{padding:16px;border:1px solid var(--border);background:var(--panel-solid);border-radius:var(--radius-sm);}
+.appeal-top{display:flex;align-items:flex-start;justify-content:space-between;gap:12px;margin-bottom:14px;}
+.appeal-status{display:inline-flex;align-items:center;justify-content:center;padding:6px 11px;border-radius:999px;font-size:12px;font-weight:800;border:1px solid currentColor;white-space:nowrap;}
+.appeal-status-pending{color:var(--neon-amber);background:color-mix(in srgb,var(--neon-amber) 10%,transparent);}
+.appeal-status-reviewed{color:var(--neon-cyan);background:color-mix(in srgb,var(--neon-cyan) 10%,transparent);}
+.appeal-status-accepted{color:var(--neon-green);background:color-mix(in srgb,var(--neon-green) 10%,transparent);}
+.appeal-status-rejected{color:var(--neon-red);background:color-mix(in srgb,var(--neon-red) 10%,transparent);}
+.appeal-subjects{margin-top:14px;padding:12px;border:1px solid var(--border);border-radius:var(--radius-sm);}
+.appeal-subject-row{display:flex;justify-content:space-between;gap:12px;padding:9px 0;border-bottom:1px dashed var(--border);font-size:13px;}
+.appeal-subject-row:last-child{border-bottom:0;}
+.appeal-note{margin-top:12px;padding:12px;border-radius:var(--radius-sm);border:1px solid var(--border);background:rgba(0,240,255,.04);}
+.appeal-note p{margin:6px 0 0;line-height:1.7;white-space:normal;}
+.admin-note{border-color:rgba(61,255,160,.35);}
+.appeal-admin-header{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:14px;}
+.appeal-filter-grid{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:9px;margin-bottom:16px;}
+.appeal-filter{display:flex;align-items:center;justify-content:space-between;gap:8px;padding:11px 12px;border-radius:var(--radius-sm);border:1px solid var(--border);background:var(--panel-solid);color:var(--text);cursor:pointer;font-weight:700;}
+.appeal-filter.active{background:var(--grad-main);color:#04040a;border-color:transparent;}
+.appeal-admin-card{margin-bottom:14px;}
+.appeal-admin-actions{display:grid;gap:8px;margin-top:14px;padding-top:14px;border-top:1px solid var(--border);}
+.appeal-admin-actions label{color:var(--muted);font-size:12px;font-weight:700;}
+.appeal-admin-actions select{width:100%;padding:11px 13px;border-radius:var(--radius-sm);border:1px solid var(--border);background:var(--panel-solid);color:var(--text);font-family:'Tajawal',sans-serif;}
+@media(max-width:700px){.subject-check-grid{grid-template-columns:1fr}.appeal-filter-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.appeal-filter:last-child{grid-column:span 2}.appeal-student-summary{grid-template-columns:1fr}.appeal-admin-header{align-items:stretch;flex-direction:column}}
+
+
+/* ---------- مقارنة طالبين ---------- */
+.compare-service .ico{font-size:30px;}
+.compare-inputs{display:grid;grid-template-columns:1fr;gap:14px;margin-top:20px;}
+.compare-inputs .card label{display:block;font-weight:800;margin-bottom:8px;}
+@media(min-width:680px){.compare-inputs{grid-template-columns:1fr 1fr;}}
+.compare-submit{width:100%;margin:18px 0;}
+.compare-error{border-color:var(--neon-red);color:var(--neon-red);text-align:center;}
+.compare-table-wrap{overflow-x:auto;border:1px solid var(--border);border-radius:var(--radius-sm);}
+.compare-table{width:100%;min-width:650px;border-collapse:collapse;table-layout:fixed;}
+.compare-table th,.compare-table td{border:1px solid var(--border);padding:10px 8px;text-align:center;}
+.compare-table thead th{background:rgba(0,240,255,.08);}
+.compare-table th:first-child,.compare-table td:first-child{width:32%;text-align:right;}
+.compare-name{font-weight:900;font-size:14px;line-height:1.5;}
+.compare-id{font-size:11px;color:var(--muted);margin-top:3px;}
+.compare-avg{display:inline-block;margin-top:6px;padding:4px 10px;border-radius:999px;background:rgba(61,255,160,.10);color:var(--neon-green);font-family:'IBM Plex Mono',monospace;font-weight:800;}
+.compare-overall td{font-weight:900;background:rgba(178,75,255,.10);}
+.compare-mark{font-family:'IBM Plex Mono',monospace;font-weight:700;}
+.compare-subject{font-weight:700;}
+
+/* ---------- نافذة الرسم البياني ---------- */
+.chart-open-btn{margin-top:8px;border:1px solid var(--border);background:var(--panel);color:var(--text);border-radius:999px;padding:8px 14px;cursor:pointer;font-family:'Cairo',sans-serif;font-weight:800;transition:.2s;}
+.chart-open-btn:hover{transform:translateY(-2px);box-shadow:var(--shadow-glow);}
+.chart-modal-backdrop{position:fixed;inset:0;background:rgba(0,0,0,.68);z-index:80;backdrop-filter:blur(5px);}
+.chart-modal{position:fixed;z-index:81;top:50%;left:50%;transform:translate(-50%,-50%);width:min(900px,94vw);max-height:88vh;overflow:auto;background:var(--panel-solid);border:1px solid var(--border);border-radius:var(--radius);padding:20px;box-shadow:0 20px 80px rgba(0,0,0,.45);}
+.chart-modal-head{display:flex;justify-content:space-between;align-items:flex-start;gap:12px;margin-bottom:18px;}
+.chart-modal-head .k{font-size:12px;color:var(--muted);}
+.chart-modal-head h3{margin:4px 0 0;font-size:18px;}
+.student-bars{direction:ltr;overflow-x:auto;padding:6px 0 12px;}
+.chart-scale{display:flex;justify-content:space-between;direction:ltr;color:var(--muted);font:11px 'IBM Plex Mono',monospace;margin:0 12px 6px 175px;opacity:.8;}
+
+/* ---------- شاشة استخراج النتيجة ---------- */
+.result-loading-backdrop{position:fixed;inset:0;z-index:100;display:flex;align-items:center;justify-content:center;background:rgba(5,6,15,.82);backdrop-filter:blur(8px);}
+.result-loading-card{width:min(330px,86vw);padding:30px 22px;text-align:center;background:var(--panel-solid);border:1px solid var(--border);border-radius:var(--radius);box-shadow:var(--shadow-glow);}
+.loading-orbit{font-size:42px;display:inline-block;animation:loadingSpin 1s linear infinite;}
+.loading-title{font-size:18px;font-weight:900;margin-top:12px;}
+.loading-dots{display:flex;direction:ltr;justify-content:center;gap:6px;margin-top:12px;}
+.loading-dots span{width:7px;height:7px;border-radius:50%;background:var(--neon-cyan);animation:loadingDot 1s infinite ease-in-out;}
+.loading-dots span:nth-child(2){animation-delay:.15s;}
+.loading-dots span:nth-child(3){animation-delay:.3s;}
+@keyframes loadingSpin{to{transform:rotate(360deg);}}
+@keyframes loadingDot{0%,80%,100%{transform:scale(.55);opacity:.45;}40%{transform:scale(1);opacity:1;}}
+
+@media(max-width:679px){
+  .chart-modal{padding:14px;width:94vw;}
+  .chart-scale{margin-left:150px;}
+}
+
+/* ---------- مخطط علامات الطالب: أعمدة أفقية ---------- */
+.grade-chart-modal{width:min(980px,95vw);}
+.grade-chart-legend{display:flex;gap:18px;}
+.chart-legend{display:flex;justify-content:flex-start;gap:18px;margin:0 0 16px;color:var(--muted);font-size:12px;}
+.legend-dot{display:inline-block;width:9px;height:9px;border-radius:50%;margin-left:5px;}
+.legend-dot.pass{background:var(--neon-green);box-shadow:0 0 8px var(--neon-green);}
+.legend-dot.fail{background:var(--neon-red);box-shadow:0 0 8px var(--neon-red);}
+.horizontal-grade-chart{display:flex;flex-direction:column;gap:12px;direction:rtl;}
+.grade-chart-row{display:grid;grid-template-columns:minmax(145px,220px) 1fr 58px;align-items:center;gap:12px;direction:ltr;}
+.grade-chart-name{direction:rtl;text-align:right;font-weight:800;font-size:13px;color:var(--text);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
+.grade-chart-track{height:26px;background:var(--border);border-radius:999px;overflow:hidden;direction:ltr;position:relative;}
+.grade-chart-fill{height:100%;border-radius:999px;min-width:3px;transition:width .7s ease;}
+.grade-chart-value{font-family:'IBM Plex Mono',monospace;font-weight:800;text-align:left;font-size:12px;direction:ltr;}
+@media(max-width:650px){
+  .grade-chart-row{grid-template-columns:110px 1fr 52px;gap:8px;}
+  .grade-chart-name{font-size:11px;}
+  .grade-chart-track{height:22px;}
+}
+
+.average-action-row{display:flex;align-items:center;justify-content:center;gap:9px;margin-top:2px;}
+.chart-icon-btn{width:38px;height:38px;border:1px solid var(--border);background:var(--panel);color:var(--text);border-radius:12px;cursor:pointer;font-size:18px;display:grid;place-items:center;transition:.2s;}
+.chart-icon-btn:hover{transform:translateY(-2px) scale(1.04);box-shadow:var(--shadow-glow);}

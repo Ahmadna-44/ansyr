@@ -1,0 +1,4462 @@
+[
+  {
+    "subscriptionNumber": "4940",
+    "fullName": "ابراهيم احمد الشيخ",
+    "english1": "52",
+    "math1": "67",
+    "arabic": "86",
+    "computerSkills1": "51",
+    "electricalProperties": "56",
+    "physics": "35"
+  },
+  {
+    "subscriptionNumber": "5253",
+    "fullName": "ابراهيم سمير شريقي",
+    "english1": "64",
+    "math1": "30",
+    "arabic": "81",
+    "computerSkills1": "68",
+    "electricalProperties": "62",
+    "physics": "20"
+  },
+  {
+    "subscriptionNumber": "0",
+    "fullName": "ابراهيم عدنان موسى",
+    "english1": "0",
+    "math1": "0",
+    "arabic": "0",
+    "computerSkills1": "0",
+    "electricalProperties": "0",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "5254",
+    "fullName": "ابراهيم منار الخير",
+    "english1": "80",
+    "math1": "70",
+    "arabic": "72",
+    "computerSkills1": "62",
+    "electricalProperties": "68",
+    "physics": "21"
+  },
+  {
+    "subscriptionNumber": "0",
+    "fullName": "ابراهيم وسام ابو حامد",
+    "english1": "0",
+    "math1": "0",
+    "arabic": "0",
+    "computerSkills1": "0",
+    "electricalProperties": "0",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "5238",
+    "fullName": "احسان باسم اسماعيل",
+    "english1": "48",
+    "math1": "26",
+    "arabic": "23",
+    "computerSkills1": "52",
+    "electricalProperties": "22",
+    "physics": "20"
+  },
+  {
+    "subscriptionNumber": "0",
+    "fullName": "احمد ابراهيم الحمود",
+    "english1": "0",
+    "math1": "0",
+    "arabic": "0",
+    "computerSkills1": "0",
+    "electricalProperties": "0",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "5028",
+    "fullName": "احمد حسام منصور",
+    "english1": "56",
+    "math1": "42",
+    "arabic": "72",
+    "computerSkills1": "82",
+    "electricalProperties": "62",
+    "physics": "30"
+  },
+  {
+    "subscriptionNumber": "5376",
+    "fullName": "احمد سمير مكحل",
+    "english1": "76",
+    "math1": "72",
+    "arabic": "73",
+    "computerSkills1": "66",
+    "electricalProperties": "82",
+    "physics": "43"
+  },
+  {
+    "subscriptionNumber": "5288",
+    "fullName": "احمد شواخ البورسان",
+    "english1": "0",
+    "math1": "0",
+    "arabic": "0",
+    "computerSkills1": "0",
+    "electricalProperties": "0",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "5062",
+    "fullName": "احمد عبد الكريم قطيط",
+    "english1": "46",
+    "math1": "33",
+    "arabic": "61",
+    "computerSkills1": "48",
+    "electricalProperties": "46",
+    "physics": "20"
+  },
+  {
+    "subscriptionNumber": "4949",
+    "fullName": "احمد عيسى ديوب",
+    "english1": "82",
+    "math1": "80",
+    "arabic": "91",
+    "computerSkills1": "67",
+    "electricalProperties": "62",
+    "physics": "62"
+  },
+  {
+    "subscriptionNumber": "4954",
+    "fullName": "احمد ماهر محمد زريق",
+    "english1": "76",
+    "math1": "50",
+    "arabic": "62",
+    "computerSkills1": "69",
+    "electricalProperties": "62",
+    "physics": "46"
+  },
+  {
+    "subscriptionNumber": "5256",
+    "fullName": "احمد محمد النوا",
+    "english1": "66",
+    "math1": "72",
+    "arabic": "79",
+    "computerSkills1": "83",
+    "electricalProperties": "78",
+    "physics": "35"
+  },
+  {
+    "subscriptionNumber": "5346",
+    "fullName": "حسن رامي غزولين",
+    "english1": "0",
+    "math1": "0",
+    "arabic": "0",
+    "computerSkills1": "0",
+    "electricalProperties": "0",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "4959",
+    "fullName": "احمد هشام عابدين",
+    "english1": "48",
+    "math1": "51",
+    "arabic": "67",
+    "computerSkills1": "0",
+    "electricalProperties": "58",
+    "physics": "32"
+  },
+  {
+    "subscriptionNumber": "5249",
+    "fullName": "احمد وسيم سليمان",
+    "english1": "58",
+    "math1": "0",
+    "arabic": "72",
+    "computerSkills1": "61",
+    "electricalProperties": "42",
+    "physics": "21"
+  },
+  {
+    "subscriptionNumber": "4939",
+    "fullName": "ادهم سليم ابراهيم",
+    "english1": "60",
+    "math1": "0",
+    "arabic": "76",
+    "computerSkills1": "81",
+    "electricalProperties": "60",
+    "physics": "49"
+  },
+  {
+    "subscriptionNumber": "4947",
+    "fullName": "اسراء تميم شداد",
+    "english1": "80",
+    "math1": "66",
+    "arabic": "73",
+    "computerSkills1": "71",
+    "electricalProperties": "68",
+    "physics": "60"
+  },
+  {
+    "subscriptionNumber": "5323",
+    "fullName": "اسعد ياسر جريكوس",
+    "english1": "34",
+    "math1": "37",
+    "arabic": "62",
+    "computerSkills1": "56",
+    "electricalProperties": "56",
+    "physics": "20"
+  },
+  {
+    "subscriptionNumber": "5262",
+    "fullName": "اسيه سلام الدين ديب",
+    "english1": "64",
+    "math1": "74",
+    "arabic": "91",
+    "computerSkills1": "23",
+    "electricalProperties": "78",
+    "physics": "40"
+  },
+  {
+    "subscriptionNumber": "4955",
+    "fullName": "الاء محمد عيد",
+    "english1": "62",
+    "math1": "65",
+    "arabic": "72",
+    "computerSkills1": "86",
+    "electricalProperties": "70",
+    "physics": "79"
+  },
+  {
+    "subscriptionNumber": "4956",
+    "fullName": "البتول علي احمد",
+    "english1": "92",
+    "math1": "80",
+    "arabic": "92",
+    "computerSkills1": "92",
+    "electricalProperties": "82",
+    "physics": "83"
+  },
+  {
+    "subscriptionNumber": "5356",
+    "fullName": "الحارث دمر صالح",
+    "english1": "0",
+    "math1": "0",
+    "arabic": "63",
+    "computerSkills1": "0",
+    "electricalProperties": "44",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "5318",
+    "fullName": "الزهراء غياث العيسى",
+    "english1": "28",
+    "math1": "18",
+    "arabic": "36",
+    "computerSkills1": "45",
+    "electricalProperties": "44",
+    "physics": "20"
+  },
+  {
+    "subscriptionNumber": "4951",
+    "fullName": "الليث اكثم حسن",
+    "english1": "78",
+    "math1": "78",
+    "arabic": "80",
+    "computerSkills1": "84",
+    "electricalProperties": "70",
+    "physics": "48"
+  },
+  {
+    "subscriptionNumber": "5046",
+    "fullName": "الليث رياض رستم",
+    "english1": "36",
+    "math1": "37",
+    "arabic": "70",
+    "computerSkills1": "69",
+    "electricalProperties": "50",
+    "physics": "20"
+  },
+  {
+    "subscriptionNumber": "5251",
+    "fullName": "الليث عروه داؤد",
+    "english1": "24",
+    "math1": "32",
+    "arabic": "61",
+    "computerSkills1": "62",
+    "electricalProperties": "46",
+    "physics": "24"
+  },
+  {
+    "subscriptionNumber": "5234",
+    "fullName": "اليسار نسيم حميره",
+    "english1": "88",
+    "math1": "59",
+    "arabic": "81",
+    "computerSkills1": "85",
+    "electricalProperties": "76",
+    "physics": "67"
+  },
+  {
+    "subscriptionNumber": "4958",
+    "fullName": "اوج نزيه شحاده",
+    "english1": "56",
+    "math1": "41",
+    "arabic": "75",
+    "computerSkills1": "62",
+    "electricalProperties": "72",
+    "physics": "39"
+  },
+  {
+    "subscriptionNumber": "4944",
+    "fullName": "اياد امجد الحاطوم",
+    "english1": "92",
+    "math1": "78",
+    "arabic": "87",
+    "computerSkills1": "96",
+    "electricalProperties": "90",
+    "physics": "91"
+  },
+  {
+    "subscriptionNumber": "5036",
+    "fullName": "ايليا علي سعيد",
+    "english1": "64",
+    "math1": "30",
+    "arabic": "66",
+    "computerSkills1": "55",
+    "electricalProperties": "52",
+    "physics": "32"
+  },
+  {
+    "subscriptionNumber": "5354",
+    "fullName": "ايمن لؤي مصطفى",
+    "english1": "68",
+    "math1": "69",
+    "arabic": "77",
+    "computerSkills1": "82",
+    "electricalProperties": "74",
+    "physics": "62"
+  },
+  {
+    "subscriptionNumber": "5245",
+    "fullName": "ايمن وائل شحرور",
+    "english1": "76",
+    "math1": "44",
+    "arabic": "69",
+    "computerSkills1": "68",
+    "electricalProperties": "54",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "5119",
+    "fullName": "ايه خالد محيو",
+    "english1": "76",
+    "math1": "38",
+    "arabic": "58",
+    "computerSkills1": "50",
+    "electricalProperties": "82",
+    "physics": "51"
+  },
+  {
+    "subscriptionNumber": "4943",
+    "fullName": "ايليانا جوني حداد",
+    "english1": "56",
+    "math1": "93",
+    "arabic": "93",
+    "computerSkills1": "86",
+    "electricalProperties": "88",
+    "physics": "71"
+  },
+  {
+    "subscriptionNumber": "5250",
+    "fullName": "ايلينا اسامه نظام",
+    "english1": "66",
+    "math1": "11",
+    "arabic": "78",
+    "computerSkills1": "43",
+    "electricalProperties": "60",
+    "physics": "20"
+  },
+  {
+    "subscriptionNumber": "5259",
+    "fullName": "أبي سامر نطيطة",
+    "english1": "50",
+    "math1": "24",
+    "arabic": "54",
+    "computerSkills1": "63",
+    "electricalProperties": "44",
+    "physics": "27"
+  },
+  {
+    "subscriptionNumber": "4995",
+    "fullName": "مي نورس يوسف",
+    "english1": "74",
+    "math1": "53",
+    "arabic": "85",
+    "computerSkills1": "58",
+    "electricalProperties": "78",
+    "physics": "20"
+  },
+  {
+    "subscriptionNumber": "4957",
+    "fullName": "أحمد محمد سيد محمود",
+    "english1": "0",
+    "math1": "0",
+    "arabic": "0",
+    "computerSkills1": "0",
+    "electricalProperties": "0",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "0",
+    "fullName": "أداد عبداللطيف المطر",
+    "english1": "0",
+    "math1": "0",
+    "arabic": "0",
+    "computerSkills1": "0",
+    "electricalProperties": "0",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "4942",
+    "fullName": "أسعد حمزه شلح",
+    "english1": "88",
+    "math1": "60",
+    "arabic": "90",
+    "computerSkills1": "71",
+    "electricalProperties": "68",
+    "physics": "24"
+  },
+  {
+    "subscriptionNumber": "4946",
+    "fullName": "أويس عبد الرحمن المصري",
+    "english1": "70",
+    "math1": "90",
+    "arabic": "81",
+    "computerSkills1": "67",
+    "electricalProperties": "70",
+    "physics": "50"
+  },
+  {
+    "subscriptionNumber": "0",
+    "fullName": "أيهم احمد الشامي",
+    "english1": "0",
+    "math1": "0",
+    "arabic": "0",
+    "computerSkills1": "0",
+    "electricalProperties": "0",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "4953",
+    "fullName": "آسر نوفل جعفر",
+    "english1": "84",
+    "math1": "81",
+    "arabic": "80",
+    "computerSkills1": "63",
+    "electricalProperties": "94",
+    "physics": "65"
+  },
+  {
+    "subscriptionNumber": "5057",
+    "fullName": "آية اكسم الشيخ",
+    "english1": "48",
+    "math1": "45",
+    "arabic": "60",
+    "computerSkills1": "47",
+    "electricalProperties": "48",
+    "physics": "31"
+  },
+  {
+    "subscriptionNumber": "0",
+    "fullName": "باهر وردان زكية",
+    "english1": "0",
+    "math1": "0",
+    "arabic": "0",
+    "computerSkills1": "0",
+    "electricalProperties": "0",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "5255",
+    "fullName": "بتول انور سعد",
+    "english1": "64",
+    "math1": "67",
+    "arabic": "86",
+    "computerSkills1": "84",
+    "electricalProperties": "82",
+    "physics": "55"
+  },
+  {
+    "subscriptionNumber": "5241",
+    "fullName": "بتول اصف حسن",
+    "english1": "76",
+    "math1": "36",
+    "arabic": "80",
+    "computerSkills1": "63",
+    "electricalProperties": "80",
+    "physics": "30"
+  },
+  {
+    "subscriptionNumber": "5361",
+    "fullName": "بتول حسن حمدو",
+    "english1": "96",
+    "math1": "99",
+    "arabic": "95",
+    "computerSkills1": "85",
+    "electricalProperties": "96",
+    "physics": "96"
+  },
+  {
+    "subscriptionNumber": "5123",
+    "fullName": "بتول خلدون فخرو",
+    "english1": "78",
+    "math1": "29",
+    "arabic": "55",
+    "computerSkills1": "46",
+    "electricalProperties": "56",
+    "physics": "47"
+  },
+  {
+    "subscriptionNumber": "4948",
+    "fullName": "بتول وفيق علي",
+    "english1": "78",
+    "math1": "70",
+    "arabic": "89",
+    "computerSkills1": "85",
+    "electricalProperties": "88",
+    "physics": "52"
+  },
+  {
+    "subscriptionNumber": "5357",
+    "fullName": "براء محمد نور اسليم",
+    "english1": "22",
+    "math1": "36",
+    "arabic": "58",
+    "computerSkills1": "34",
+    "electricalProperties": "26",
+    "physics": "18"
+  },
+  {
+    "subscriptionNumber": "5045",
+    "fullName": "براءه عبد الرحمن برادعي",
+    "english1": "84",
+    "math1": "52",
+    "arabic": "71",
+    "computerSkills1": "60",
+    "electricalProperties": "74",
+    "physics": "59"
+  },
+  {
+    "subscriptionNumber": "5260",
+    "fullName": "بشرى محمد شغري",
+    "english1": "46",
+    "math1": "28",
+    "arabic": "82",
+    "computerSkills1": "55",
+    "electricalProperties": "48",
+    "physics": "28"
+  },
+  {
+    "subscriptionNumber": "5248",
+    "fullName": "بلال طارق دعبول",
+    "english1": "62",
+    "math1": "89",
+    "arabic": "89",
+    "computerSkills1": "89",
+    "electricalProperties": "92",
+    "physics": "66"
+  },
+  {
+    "subscriptionNumber": "5358",
+    "fullName": "بهاء محمد نور اسليم",
+    "english1": "64",
+    "math1": "68",
+    "arabic": "76",
+    "computerSkills1": "75",
+    "electricalProperties": "48",
+    "physics": "56"
+  },
+  {
+    "subscriptionNumber": "5056",
+    "fullName": "تالا كاسر كفر قطاري",
+    "english1": "52",
+    "math1": "65",
+    "arabic": "66",
+    "computerSkills1": "62",
+    "electricalProperties": "62",
+    "physics": "33"
+  },
+  {
+    "subscriptionNumber": "4941",
+    "fullName": "تالا هاني منصور",
+    "english1": "90",
+    "math1": "95",
+    "arabic": "90",
+    "computerSkills1": "94",
+    "electricalProperties": "94",
+    "physics": "88"
+  },
+  {
+    "subscriptionNumber": "4938",
+    "fullName": "تالة محمد رامي قاضي",
+    "english1": "82",
+    "math1": "39",
+    "arabic": "78",
+    "computerSkills1": "78",
+    "electricalProperties": "88",
+    "physics": "27"
+  },
+  {
+    "subscriptionNumber": "4950",
+    "fullName": "تاله علي محمد",
+    "english1": "74",
+    "math1": "69",
+    "arabic": "83",
+    "computerSkills1": "80",
+    "electricalProperties": "84",
+    "physics": "50"
+  },
+  {
+    "subscriptionNumber": "5193",
+    "fullName": "تامر باسل منصور",
+    "english1": "68",
+    "math1": "71",
+    "arabic": "81",
+    "computerSkills1": "88",
+    "electricalProperties": "76",
+    "physics": "84"
+  },
+  {
+    "subscriptionNumber": "5375",
+    "fullName": "تسنيم ابراهيم عيسى",
+    "english1": "74",
+    "math1": "77",
+    "arabic": "90",
+    "computerSkills1": "74",
+    "electricalProperties": "90",
+    "physics": "66"
+  },
+  {
+    "subscriptionNumber": "5355",
+    "fullName": "تسنيم غياث مدنيه",
+    "english1": "46",
+    "math1": "78",
+    "arabic": "76",
+    "computerSkills1": "45",
+    "electricalProperties": "66",
+    "physics": "36"
+  },
+  {
+    "subscriptionNumber": "5247",
+    "fullName": "تسنيم محمد طنطاوي",
+    "english1": "66",
+    "math1": "81",
+    "arabic": "76",
+    "computerSkills1": "65",
+    "electricalProperties": "76",
+    "physics": "34"
+  },
+  {
+    "subscriptionNumber": "5054",
+    "fullName": "تيم الله محمد خالد حاج بكري",
+    "english1": "66",
+    "math1": "54",
+    "arabic": "48",
+    "computerSkills1": "66",
+    "electricalProperties": "64",
+    "physics": "47"
+  },
+  {
+    "subscriptionNumber": "5239",
+    "fullName": "تيم فادي شعبو",
+    "english1": "74",
+    "math1": "59",
+    "arabic": "73",
+    "computerSkills1": "77",
+    "electricalProperties": "70",
+    "physics": "56"
+  },
+  {
+    "subscriptionNumber": "4945",
+    "fullName": "تيم لقاء اسعد",
+    "english1": "68",
+    "math1": "71",
+    "arabic": "58",
+    "computerSkills1": "81",
+    "electricalProperties": "82",
+    "physics": "58"
+  },
+  {
+    "subscriptionNumber": "5035",
+    "fullName": "تيم نظير قره علي",
+    "english1": "56",
+    "math1": "33",
+    "arabic": "64",
+    "computerSkills1": "46",
+    "electricalProperties": "54",
+    "physics": "32"
+  },
+  {
+    "subscriptionNumber": "0",
+    "fullName": "جابر أمجد عيسى",
+    "english1": "0",
+    "math1": "0",
+    "arabic": "0",
+    "computerSkills1": "0",
+    "electricalProperties": "0",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "4978",
+    "fullName": "جاد شعبان برهوم",
+    "english1": "80",
+    "math1": "81",
+    "arabic": "75",
+    "computerSkills1": "84",
+    "electricalProperties": "86",
+    "physics": "31"
+  },
+  {
+    "subscriptionNumber": "4980",
+    "fullName": "جاد نضال موسى",
+    "english1": "54",
+    "math1": "27",
+    "arabic": "38",
+    "computerSkills1": "63",
+    "electricalProperties": "48",
+    "physics": "32"
+  },
+  {
+    "subscriptionNumber": "5114",
+    "fullName": "جعفر احمد بدوي",
+    "english1": "52",
+    "math1": "33",
+    "arabic": "52",
+    "computerSkills1": "53",
+    "electricalProperties": "48",
+    "physics": "28"
+  },
+  {
+    "subscriptionNumber": "5103",
+    "fullName": "جعفر حافظ قدار",
+    "english1": "54",
+    "math1": "19",
+    "arabic": "40",
+    "computerSkills1": "34",
+    "electricalProperties": "32",
+    "physics": "20"
+  },
+  {
+    "subscriptionNumber": "4963",
+    "fullName": "جعفر منذر حميدوش",
+    "english1": "62",
+    "math1": "72",
+    "arabic": "63",
+    "computerSkills1": "68",
+    "electricalProperties": "88",
+    "physics": "65"
+  },
+  {
+    "subscriptionNumber": "5064",
+    "fullName": "جعفر نزيه سعد",
+    "english1": "70",
+    "math1": "70",
+    "arabic": "82",
+    "computerSkills1": "76",
+    "electricalProperties": "66",
+    "physics": "51"
+  },
+  {
+    "subscriptionNumber": "5236",
+    "fullName": "جعفر نواف الفتى",
+    "english1": "40",
+    "math1": "55",
+    "arabic": "35",
+    "computerSkills1": "57",
+    "electricalProperties": "64",
+    "physics": "35"
+  },
+  {
+    "subscriptionNumber": "0",
+    "fullName": "جعفر يوسف مهنا",
+    "english1": "0",
+    "math1": "0",
+    "arabic": "0",
+    "computerSkills1": "0",
+    "electricalProperties": "0",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "5130",
+    "fullName": "جلنار غازي ديوب",
+    "english1": "64",
+    "math1": "0",
+    "arabic": "83",
+    "computerSkills1": "61",
+    "electricalProperties": "64",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "5125",
+    "fullName": "جمال عبدالناصر ايهم الخضور",
+    "english1": "88",
+    "math1": "89",
+    "arabic": "100",
+    "computerSkills1": "90",
+    "electricalProperties": "96",
+    "physics": "78"
+  },
+  {
+    "subscriptionNumber": "5269",
+    "fullName": "جمال يحيى خربوطلي",
+    "english1": "64",
+    "math1": "76",
+    "arabic": "80",
+    "computerSkills1": "57",
+    "electricalProperties": "50",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "4971",
+    "fullName": "جميل ماهر حمود",
+    "english1": "46",
+    "math1": "67",
+    "arabic": "87",
+    "computerSkills1": "66",
+    "electricalProperties": "72",
+    "physics": "36"
+  },
+  {
+    "subscriptionNumber": "5069",
+    "fullName": "جنا سهيل كنعان",
+    "english1": "58",
+    "math1": "36",
+    "arabic": "84",
+    "computerSkills1": "63",
+    "electricalProperties": "80",
+    "physics": "34"
+  },
+  {
+    "subscriptionNumber": "5129",
+    "fullName": "جنا غندور غندور",
+    "english1": "90",
+    "math1": "74",
+    "arabic": "97",
+    "computerSkills1": "72",
+    "electricalProperties": "58",
+    "physics": "62"
+  },
+  {
+    "subscriptionNumber": "4981",
+    "fullName": "جنى اصف عسيكريه",
+    "english1": "84",
+    "math1": "56",
+    "arabic": "81",
+    "computerSkills1": "66",
+    "electricalProperties": "84",
+    "physics": "61"
+  },
+  {
+    "subscriptionNumber": "4974",
+    "fullName": "جنى جهاد الوزه",
+    "english1": "86",
+    "math1": "83",
+    "arabic": "88",
+    "computerSkills1": "83",
+    "electricalProperties": "96",
+    "physics": "96"
+  },
+  {
+    "subscriptionNumber": "5072",
+    "fullName": "جنى رعد صقر",
+    "english1": "76",
+    "math1": "68",
+    "arabic": "88",
+    "computerSkills1": "71",
+    "electricalProperties": "48",
+    "physics": "49"
+  },
+  {
+    "subscriptionNumber": "5120",
+    "fullName": "جنى عمار ضاما",
+    "english1": "84",
+    "math1": "34",
+    "arabic": "70",
+    "computerSkills1": "62",
+    "electricalProperties": "80",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "0",
+    "fullName": "جني غسان عثمان",
+    "english1": "0",
+    "math1": "0",
+    "arabic": "0",
+    "computerSkills1": "0",
+    "electricalProperties": "0",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "5285",
+    "fullName": "جنى مروان حلبي",
+    "english1": "50",
+    "math1": "29",
+    "arabic": "43",
+    "computerSkills1": "54",
+    "electricalProperties": "56",
+    "physics": "20"
+  },
+  {
+    "subscriptionNumber": "4969",
+    "fullName": "جوا رواد صالح",
+    "english1": "82",
+    "math1": "48",
+    "arabic": "73",
+    "computerSkills1": "37",
+    "electricalProperties": "80",
+    "physics": "47"
+  },
+  {
+    "subscriptionNumber": "4960",
+    "fullName": "جودي لجين ريحان",
+    "english1": "74",
+    "math1": "31",
+    "arabic": "85",
+    "computerSkills1": "65",
+    "electricalProperties": "66",
+    "physics": "37"
+  },
+  {
+    "subscriptionNumber": "4982",
+    "fullName": "جودي محمد رشيد",
+    "english1": "74",
+    "math1": "83",
+    "arabic": "75",
+    "computerSkills1": "57",
+    "electricalProperties": "74",
+    "physics": "56"
+  },
+  {
+    "subscriptionNumber": "5121",
+    "fullName": "جوى عدنان غضبان",
+    "english1": "94",
+    "math1": "82",
+    "arabic": "90",
+    "computerSkills1": "96",
+    "electricalProperties": "82",
+    "physics": "79"
+  },
+  {
+    "subscriptionNumber": "5076",
+    "fullName": "جوى لؤي يسير",
+    "english1": "90",
+    "math1": "86",
+    "arabic": "93",
+    "computerSkills1": "76",
+    "electricalProperties": "94",
+    "physics": "61"
+  },
+  {
+    "subscriptionNumber": "5098",
+    "fullName": "جويل تمام سليمان",
+    "english1": "0",
+    "math1": "0",
+    "arabic": "0",
+    "computerSkills1": "0",
+    "electricalProperties": "0",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "5399",
+    "fullName": "حازم محسن حليبيه",
+    "english1": "36",
+    "math1": "32",
+    "arabic": "60",
+    "computerSkills1": "40",
+    "electricalProperties": "22",
+    "physics": "20"
+  },
+  {
+    "subscriptionNumber": "5063",
+    "fullName": "حسام الدين جميل يوسف",
+    "english1": "88",
+    "math1": "87",
+    "arabic": "94",
+    "computerSkills1": "92",
+    "electricalProperties": "88",
+    "physics": "98"
+  },
+  {
+    "subscriptionNumber": "0",
+    "fullName": "حسن راجي كحيله",
+    "english1": "0",
+    "math1": "0",
+    "arabic": "0",
+    "computerSkills1": "0",
+    "electricalProperties": "0",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "5346",
+    "fullName": "حسن رامي غزولين",
+    "english1": "72",
+    "math1": "84",
+    "arabic": "79",
+    "computerSkills1": "76",
+    "electricalProperties": "86",
+    "physics": "64"
+  },
+  {
+    "subscriptionNumber": "4965",
+    "fullName": "حسن رائق محمد",
+    "english1": "60",
+    "math1": "42",
+    "arabic": "73",
+    "computerSkills1": "49",
+    "electricalProperties": "66",
+    "physics": "20"
+  },
+  {
+    "subscriptionNumber": "5073",
+    "fullName": "حسن سامر صالح",
+    "english1": "72",
+    "math1": "81",
+    "arabic": "83",
+    "computerSkills1": "72",
+    "electricalProperties": "60",
+    "physics": "52"
+  },
+  {
+    "subscriptionNumber": "4975",
+    "fullName": "حسن غالب خضور",
+    "english1": "82",
+    "math1": "65",
+    "arabic": "86",
+    "computerSkills1": "57",
+    "electricalProperties": "82",
+    "physics": "54"
+  },
+  {
+    "subscriptionNumber": "4968",
+    "fullName": "حسن محمد حمدان",
+    "english1": "74",
+    "math1": "36",
+    "arabic": "77",
+    "computerSkills1": "54",
+    "electricalProperties": "68",
+    "physics": "46"
+  },
+  {
+    "subscriptionNumber": "5110",
+    "fullName": "حسن نضال ديب",
+    "english1": "78",
+    "math1": "60",
+    "arabic": "69",
+    "computerSkills1": "69",
+    "electricalProperties": "78",
+    "physics": "74"
+  },
+  {
+    "subscriptionNumber": "5244",
+    "fullName": "حسن يحيى جود",
+    "english1": "54",
+    "math1": "0",
+    "arabic": "74",
+    "computerSkills1": "60",
+    "electricalProperties": "74",
+    "physics": "39"
+  },
+  {
+    "subscriptionNumber": "5113",
+    "fullName": "حسن يونس المقديد",
+    "english1": "82",
+    "math1": "19",
+    "arabic": "58",
+    "computerSkills1": "46",
+    "electricalProperties": "40",
+    "physics": "18"
+  },
+  {
+    "subscriptionNumber": "5276",
+    "fullName": "حسين باسم عبدالله",
+    "english1": "0",
+    "math1": "0",
+    "arabic": "0",
+    "computerSkills1": "0",
+    "electricalProperties": "0",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "5073",
+    "fullName": "حسن سامر صالح",
+    "english1": "0",
+    "math1": "0",
+    "arabic": "0",
+    "computerSkills1": "0",
+    "electricalProperties": "0",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "5070",
+    "fullName": "حلا حسام قاسم",
+    "english1": "44",
+    "math1": "20",
+    "arabic": "38",
+    "computerSkills1": "29",
+    "electricalProperties": "48",
+    "physics": "4"
+  },
+  {
+    "subscriptionNumber": "4970",
+    "fullName": "حلا رياض صالح",
+    "english1": "88",
+    "math1": "78",
+    "arabic": "96",
+    "computerSkills1": "92",
+    "electricalProperties": "96",
+    "physics": "91"
+  },
+  {
+    "subscriptionNumber": "0",
+    "fullName": "حلا سديد عجان",
+    "english1": "0",
+    "math1": "0",
+    "arabic": "0",
+    "computerSkills1": "0",
+    "electricalProperties": "0",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "5116",
+    "fullName": "حلا شدوان الوزه",
+    "english1": "32",
+    "math1": "11",
+    "arabic": "28",
+    "computerSkills1": "29",
+    "electricalProperties": "28",
+    "physics": "20"
+  },
+  {
+    "subscriptionNumber": "5067",
+    "fullName": "حلا علي حيدر",
+    "english1": "78",
+    "math1": "70",
+    "arabic": "74",
+    "computerSkills1": "65",
+    "electricalProperties": "90",
+    "physics": "54"
+  },
+  {
+    "subscriptionNumber": "5122",
+    "fullName": "حلا علي علي",
+    "english1": "84",
+    "math1": "65",
+    "arabic": "74",
+    "computerSkills1": "77",
+    "electricalProperties": "80",
+    "physics": "71"
+  },
+  {
+    "subscriptionNumber": "5363",
+    "fullName": "حلا غالب خليل",
+    "english1": "58",
+    "math1": "67",
+    "arabic": "60",
+    "computerSkills1": "72",
+    "electricalProperties": "78",
+    "physics": "48"
+  },
+  {
+    "subscriptionNumber": "5178",
+    "fullName": "حلا محمد الذكر",
+    "english1": "72",
+    "math1": "37",
+    "arabic": "93",
+    "computerSkills1": "48",
+    "electricalProperties": "60",
+    "physics": "20"
+  },
+  {
+    "subscriptionNumber": "5283",
+    "fullName": "حلا مهند حجازي",
+    "english1": "84",
+    "math1": "61",
+    "arabic": "85",
+    "computerSkills1": "74",
+    "electricalProperties": "76",
+    "physics": "87"
+  },
+  {
+    "subscriptionNumber": "5118",
+    "fullName": "حلا نايف خازم",
+    "english1": "50",
+    "math1": "35",
+    "arabic": "67",
+    "computerSkills1": "63",
+    "electricalProperties": "52",
+    "physics": "40"
+  },
+  {
+    "subscriptionNumber": "5112",
+    "fullName": "حلا يوسف صالح",
+    "english1": "62",
+    "math1": "55",
+    "arabic": "75",
+    "computerSkills1": "78",
+    "electricalProperties": "74",
+    "physics": "62"
+  },
+  {
+    "subscriptionNumber": "4961",
+    "fullName": "حمزة ايهاب احمد",
+    "english1": "42",
+    "math1": "57",
+    "arabic": "58",
+    "computerSkills1": "58",
+    "electricalProperties": "52",
+    "physics": "25"
+  },
+  {
+    "subscriptionNumber": "5377",
+    "fullName": "حمزه اسماعيل الاشقر",
+    "english1": "64",
+    "math1": "63",
+    "arabic": "84",
+    "computerSkills1": "77",
+    "electricalProperties": "78",
+    "physics": "39"
+  },
+  {
+    "subscriptionNumber": "5124",
+    "fullName": "حمزه عماد الضرف",
+    "english1": "28",
+    "math1": "38",
+    "arabic": "38",
+    "computerSkills1": "40",
+    "electricalProperties": "30",
+    "physics": "18"
+  },
+  {
+    "subscriptionNumber": "5291",
+    "fullName": "حمزه محسن تفاحه",
+    "english1": "68",
+    "math1": "47",
+    "arabic": "67",
+    "computerSkills1": "53",
+    "electricalProperties": "42",
+    "physics": "21"
+  },
+  {
+    "subscriptionNumber": "5273",
+    "fullName": "حنين حليم حسن",
+    "english1": "74",
+    "math1": "27",
+    "arabic": "45",
+    "computerSkills1": "48",
+    "electricalProperties": "30",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "5126",
+    "fullName": "حنين فيصل صقور",
+    "english1": "70",
+    "math1": "44",
+    "arabic": "72",
+    "computerSkills1": "66",
+    "electricalProperties": "66",
+    "physics": "28"
+  },
+  {
+    "subscriptionNumber": "5111",
+    "fullName": "حنين معين ناصر",
+    "english1": "72",
+    "math1": "84",
+    "arabic": "94",
+    "computerSkills1": "91",
+    "electricalProperties": "90",
+    "physics": "89"
+  },
+  {
+    "subscriptionNumber": "5161",
+    "fullName": "حنين يوسف غرير",
+    "english1": "78",
+    "math1": "75",
+    "arabic": "91",
+    "computerSkills1": "82",
+    "electricalProperties": "94",
+    "physics": "91"
+  },
+  {
+    "subscriptionNumber": "5115",
+    "fullName": "حيدر هايل محمد",
+    "english1": "0",
+    "math1": "0",
+    "arabic": "0",
+    "computerSkills1": "0",
+    "electricalProperties": "0",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "5068",
+    "fullName": "حيدره سامي غانم",
+    "english1": "48",
+    "math1": "62",
+    "arabic": "68",
+    "computerSkills1": "55",
+    "electricalProperties": "68",
+    "physics": "35"
+  },
+  {
+    "subscriptionNumber": "5109",
+    "fullName": "حيدره صالح المكائيل",
+    "english1": "82",
+    "math1": "35",
+    "arabic": "91",
+    "computerSkills1": "89",
+    "electricalProperties": "46",
+    "physics": "36"
+  },
+  {
+    "subscriptionNumber": "5102",
+    "fullName": "حيدره مازن محمد",
+    "english1": "46",
+    "math1": "28",
+    "arabic": "53",
+    "computerSkills1": "47",
+    "electricalProperties": "50",
+    "physics": "21"
+  },
+  {
+    "subscriptionNumber": "4979",
+    "fullName": "خالد ابراهيم شريك",
+    "english1": "48",
+    "math1": "0",
+    "arabic": "2",
+    "computerSkills1": "52",
+    "electricalProperties": "44",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "5280",
+    "fullName": "خالد احمد صبح",
+    "english1": "80",
+    "math1": "51",
+    "arabic": "94",
+    "computerSkills1": "84",
+    "electricalProperties": "74",
+    "physics": "53"
+  },
+  {
+    "subscriptionNumber": "5127",
+    "fullName": "خالد حسان خبازة",
+    "english1": "26",
+    "math1": "52",
+    "arabic": "81",
+    "computerSkills1": "0",
+    "electricalProperties": "52",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "5227",
+    "fullName": "خالد وليد مكيس",
+    "english1": "88",
+    "math1": "67",
+    "arabic": "83",
+    "computerSkills1": "70",
+    "electricalProperties": "66",
+    "physics": "54"
+  },
+  {
+    "subscriptionNumber": "4977",
+    "fullName": "خديجه ضيا منلا",
+    "english1": "80",
+    "math1": "91",
+    "arabic": "94",
+    "computerSkills1": "75",
+    "electricalProperties": "76",
+    "physics": "39"
+  },
+  {
+    "subscriptionNumber": "4966",
+    "fullName": "خضر اياد عليا",
+    "english1": "90",
+    "math1": "76",
+    "arabic": "100",
+    "computerSkills1": "84",
+    "electricalProperties": "90",
+    "physics": "78"
+  },
+  {
+    "subscriptionNumber": "4962",
+    "fullName": "خضر حسين ضاهر",
+    "english1": "62",
+    "math1": "36",
+    "arabic": "78",
+    "computerSkills1": "73",
+    "electricalProperties": "72",
+    "physics": "58"
+  },
+  {
+    "subscriptionNumber": "5369",
+    "fullName": "خضر وئام محفوض",
+    "english1": "46",
+    "math1": "30",
+    "arabic": "60",
+    "computerSkills1": "77",
+    "electricalProperties": "0",
+    "physics": "20"
+  },
+  {
+    "subscriptionNumber": "5066",
+    "fullName": "خليل غياث سليمان",
+    "english1": "42",
+    "math1": "41",
+    "arabic": "44",
+    "computerSkills1": "40",
+    "electricalProperties": "38",
+    "physics": "30"
+  },
+  {
+    "subscriptionNumber": "4973",
+    "fullName": "دلال خليل كوشكار",
+    "english1": "58",
+    "math1": "49",
+    "arabic": "0",
+    "computerSkills1": "54",
+    "electricalProperties": "0",
+    "physics": "33"
+  },
+  {
+    "subscriptionNumber": "5275",
+    "fullName": "ديالا محمد محرز",
+    "english1": "54",
+    "math1": "43",
+    "arabic": "70",
+    "computerSkills1": "55",
+    "electricalProperties": "56",
+    "physics": "27"
+  },
+  {
+    "subscriptionNumber": "5272",
+    "fullName": "ديانا نجيب دواي",
+    "english1": "58",
+    "math1": "38",
+    "arabic": "72",
+    "computerSkills1": "53",
+    "electricalProperties": "66",
+    "physics": "35"
+  },
+  {
+    "subscriptionNumber": "5065",
+    "fullName": "ديمه محمد حبيب",
+    "english1": "54",
+    "math1": "34",
+    "arabic": "73",
+    "computerSkills1": "57",
+    "electricalProperties": "64",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "5282",
+    "fullName": "دينا قيس الدكنجي",
+    "english1": "56",
+    "math1": "37",
+    "arabic": "67",
+    "computerSkills1": "74",
+    "electricalProperties": "76",
+    "physics": "36"
+  },
+  {
+    "subscriptionNumber": "5166",
+    "fullName": "ذو الفقار تيسير عياش",
+    "english1": "84",
+    "math1": "51",
+    "arabic": "78",
+    "computerSkills1": "56",
+    "electricalProperties": "68",
+    "physics": "20"
+  },
+  {
+    "subscriptionNumber": "5205",
+    "fullName": "راما مازن عدي",
+    "english1": "52",
+    "math1": "20",
+    "arabic": "39",
+    "computerSkills1": "71",
+    "electricalProperties": "58",
+    "physics": "30"
+  },
+  {
+    "subscriptionNumber": "5160",
+    "fullName": "راما ماهر دمياطي",
+    "english1": "82",
+    "math1": "74",
+    "arabic": "93",
+    "computerSkills1": "76",
+    "electricalProperties": "80",
+    "physics": "62"
+  },
+  {
+    "subscriptionNumber": "5080",
+    "fullName": "ربا حسين يوسف",
+    "english1": "0",
+    "math1": "0",
+    "arabic": "0",
+    "computerSkills1": "0",
+    "electricalProperties": "0",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "5075",
+    "fullName": "رباب اندشيرطه ابراهيم",
+    "english1": "94",
+    "math1": "85",
+    "arabic": "93",
+    "computerSkills1": "93",
+    "electricalProperties": "88",
+    "physics": "77"
+  },
+  {
+    "subscriptionNumber": "5312",
+    "fullName": "ربى محمد طوالو",
+    "english1": "86",
+    "math1": "80",
+    "arabic": "89",
+    "computerSkills1": "77",
+    "electricalProperties": "86",
+    "physics": "25"
+  },
+  {
+    "subscriptionNumber": "0",
+    "fullName": "رضا محمد المحمد",
+    "english1": "0",
+    "math1": "0",
+    "arabic": "0",
+    "computerSkills1": "0",
+    "electricalProperties": "0",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "0",
+    "fullName": "رغد باسل احمد",
+    "english1": "0",
+    "math1": "0",
+    "arabic": "0",
+    "computerSkills1": "0",
+    "electricalProperties": "0",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "5316",
+    "fullName": "رغد رائد محمد",
+    "english1": "80",
+    "math1": "46",
+    "arabic": "91",
+    "computerSkills1": "51",
+    "electricalProperties": "56",
+    "physics": "20"
+  },
+  {
+    "subscriptionNumber": "5298",
+    "fullName": "رفاه حسن صوفان",
+    "english1": "78",
+    "math1": "82",
+    "arabic": "79",
+    "computerSkills1": "69",
+    "electricalProperties": "94",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "5084",
+    "fullName": "رقيه محمد كوسا",
+    "english1": "82",
+    "math1": "71",
+    "arabic": "86",
+    "computerSkills1": "80",
+    "electricalProperties": "74",
+    "physics": "59"
+  },
+  {
+    "subscriptionNumber": "5303",
+    "fullName": "رنا محمد وائل ابو شامه",
+    "english1": "80",
+    "math1": "64",
+    "arabic": "93",
+    "computerSkills1": "70",
+    "electricalProperties": "74",
+    "physics": "47"
+  },
+  {
+    "subscriptionNumber": "5311",
+    "fullName": "رناد طارق عويضه",
+    "english1": "70",
+    "math1": "24",
+    "arabic": "70",
+    "computerSkills1": "58",
+    "electricalProperties": "48",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "5136",
+    "fullName": "رند غسان ورده",
+    "english1": "82",
+    "math1": "74",
+    "arabic": "91",
+    "computerSkills1": "84",
+    "electricalProperties": "90",
+    "physics": "83"
+  },
+  {
+    "subscriptionNumber": "5139",
+    "fullName": "رند منتجب عيسى",
+    "english1": "80",
+    "math1": "82",
+    "arabic": "97",
+    "computerSkills1": "63",
+    "electricalProperties": "70",
+    "physics": "66"
+  },
+  {
+    "subscriptionNumber": "5077",
+    "fullName": "رنيم منذر ديبو",
+    "english1": "80",
+    "math1": "68",
+    "arabic": "89",
+    "computerSkills1": "79",
+    "electricalProperties": "80",
+    "physics": "75"
+  },
+  {
+    "subscriptionNumber": "5293",
+    "fullName": "رنيم مهند ديوب",
+    "english1": "54",
+    "math1": "48",
+    "arabic": "62",
+    "computerSkills1": "43",
+    "electricalProperties": "46",
+    "physics": "27"
+  },
+  {
+    "subscriptionNumber": "5091",
+    "fullName": "رهام محمد ابراهيم",
+    "english1": "78",
+    "math1": "62",
+    "arabic": "81",
+    "computerSkills1": "62",
+    "electricalProperties": "72",
+    "physics": "57"
+  },
+  {
+    "subscriptionNumber": "5093",
+    "fullName": "رهام ياسر قاسم",
+    "english1": "64",
+    "math1": "35",
+    "arabic": "85",
+    "computerSkills1": "41",
+    "electricalProperties": "66",
+    "physics": "40"
+  },
+  {
+    "subscriptionNumber": "5182",
+    "fullName": "رهف اياد حماده",
+    "english1": "88",
+    "math1": "69",
+    "arabic": "95",
+    "computerSkills1": "88",
+    "electricalProperties": "88",
+    "physics": "87"
+  },
+  {
+    "subscriptionNumber": "5150",
+    "fullName": "رهف هلال ربيع",
+    "english1": "86",
+    "math1": "75",
+    "arabic": "88",
+    "computerSkills1": "79",
+    "electricalProperties": "78",
+    "physics": "62"
+  },
+  {
+    "subscriptionNumber": "5083",
+    "fullName": "روان حسين صبح",
+    "english1": "88",
+    "math1": "74",
+    "arabic": "88",
+    "computerSkills1": "69",
+    "electricalProperties": "88",
+    "physics": "57"
+  },
+  {
+    "subscriptionNumber": "5144",
+    "fullName": "روان محمد نعنوع",
+    "english1": "86",
+    "math1": "40",
+    "arabic": "84",
+    "computerSkills1": "83",
+    "electricalProperties": "82",
+    "physics": "60"
+  },
+  {
+    "subscriptionNumber": "5096",
+    "fullName": "روز عبد الله الحكيم",
+    "english1": "78",
+    "math1": "83",
+    "arabic": "89",
+    "computerSkills1": "72",
+    "electricalProperties": "64",
+    "physics": "49"
+  },
+  {
+    "subscriptionNumber": "5314",
+    "fullName": "ريان احمد زعرور",
+    "english1": "68",
+    "math1": "47",
+    "arabic": "68",
+    "computerSkills1": "58",
+    "electricalProperties": "78",
+    "physics": "64"
+  },
+  {
+    "subscriptionNumber": "5315",
+    "fullName": "ريان سمير العبدو",
+    "english1": "36",
+    "math1": "46",
+    "arabic": "50",
+    "computerSkills1": "50",
+    "electricalProperties": "54",
+    "physics": "21"
+  },
+  {
+    "subscriptionNumber": "0",
+    "fullName": "ريان سمير طحان",
+    "english1": "0",
+    "math1": "0",
+    "arabic": "0",
+    "computerSkills1": "0",
+    "electricalProperties": "0",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "5087",
+    "fullName": "ريان محمود شلال",
+    "english1": "26",
+    "math1": "16",
+    "arabic": "0",
+    "computerSkills1": "37",
+    "electricalProperties": "0",
+    "physics": "18"
+  },
+  {
+    "subscriptionNumber": "5074",
+    "fullName": "ريم حسن يوسف",
+    "english1": "46",
+    "math1": "19",
+    "arabic": "56",
+    "computerSkills1": "40",
+    "electricalProperties": "46",
+    "physics": "35"
+  },
+  {
+    "subscriptionNumber": "5082",
+    "fullName": "ريم عدنان ديوب",
+    "english1": "82",
+    "math1": "52",
+    "arabic": "86",
+    "computerSkills1": "77",
+    "electricalProperties": "72",
+    "physics": "64"
+  },
+  {
+    "subscriptionNumber": "5302",
+    "fullName": "ريم محمد سلمون",
+    "english1": "64",
+    "math1": "78",
+    "arabic": "90",
+    "computerSkills1": "62",
+    "electricalProperties": "76",
+    "physics": "69"
+  },
+  {
+    "subscriptionNumber": "5149",
+    "fullName": "ريم محمد محمد",
+    "english1": "82",
+    "math1": "57",
+    "arabic": "79",
+    "computerSkills1": "58",
+    "electricalProperties": "66",
+    "physics": "36"
+  },
+  {
+    "subscriptionNumber": "5137",
+    "fullName": "ريما صفوان ديوب",
+    "english1": "80",
+    "math1": "68",
+    "arabic": "70",
+    "computerSkills1": "68",
+    "electricalProperties": "74",
+    "physics": "65"
+  },
+  {
+    "subscriptionNumber": "5141",
+    "fullName": "زبيده عمر الشيخ",
+    "english1": "80",
+    "math1": "84",
+    "arabic": "92",
+    "computerSkills1": "79",
+    "electricalProperties": "56",
+    "physics": "49"
+  },
+  {
+    "subscriptionNumber": "5225",
+    "fullName": "زيد معين بدران",
+    "english1": "48",
+    "math1": "49",
+    "arabic": "54",
+    "computerSkills1": "64",
+    "electricalProperties": "50",
+    "physics": "21"
+  },
+  {
+    "subscriptionNumber": "5344",
+    "fullName": "زين العابدين اسماعيل الشيخ إسماعيل",
+    "english1": "0",
+    "math1": "0",
+    "arabic": "0",
+    "computerSkills1": "0",
+    "electricalProperties": "0",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "5094",
+    "fullName": "زين العابدين اكرم نببو",
+    "english1": "38",
+    "math1": "48",
+    "arabic": "41",
+    "computerSkills1": "63",
+    "electricalProperties": "0",
+    "physics": "60"
+  },
+  {
+    "subscriptionNumber": "5134",
+    "fullName": "زين العابدين علي خميس",
+    "english1": "50",
+    "math1": "18",
+    "arabic": "68",
+    "computerSkills1": "45",
+    "electricalProperties": "44",
+    "physics": "18"
+  },
+  {
+    "subscriptionNumber": "5162",
+    "fullName": "زين العابدين مهدي علي",
+    "english1": "90",
+    "math1": "83",
+    "arabic": "81",
+    "computerSkills1": "82",
+    "electricalProperties": "88",
+    "physics": "89"
+  },
+  {
+    "subscriptionNumber": "5092",
+    "fullName": "زين العابدين وائل علي",
+    "english1": "66",
+    "math1": "42",
+    "arabic": "32",
+    "computerSkills1": "69",
+    "electricalProperties": "68",
+    "physics": "20"
+  },
+  {
+    "subscriptionNumber": "5155",
+    "fullName": "زين غراس يوسف",
+    "english1": "48",
+    "math1": "33",
+    "arabic": "76",
+    "computerSkills1": "49",
+    "electricalProperties": "44",
+    "physics": "22"
+  },
+  {
+    "subscriptionNumber": "5165",
+    "fullName": "زين وسيم لولو",
+    "english1": "48",
+    "math1": "32",
+    "arabic": "40",
+    "computerSkills1": "38",
+    "electricalProperties": "44",
+    "physics": "21"
+  },
+  {
+    "subscriptionNumber": "5085",
+    "fullName": "زينب اكسم محمد",
+    "english1": "80",
+    "math1": "85",
+    "arabic": "23",
+    "computerSkills1": "72",
+    "electricalProperties": "92",
+    "physics": "84"
+  },
+  {
+    "subscriptionNumber": "5090",
+    "fullName": "زينب اميل شكوح",
+    "english1": "44",
+    "math1": "50",
+    "arabic": "61",
+    "computerSkills1": "61",
+    "electricalProperties": "58",
+    "physics": "34"
+  },
+  {
+    "subscriptionNumber": "5313",
+    "fullName": "زينب حسين بدور",
+    "english1": "70",
+    "math1": "53",
+    "arabic": "76",
+    "computerSkills1": "63",
+    "electricalProperties": "56",
+    "physics": "32"
+  },
+  {
+    "subscriptionNumber": "5308",
+    "fullName": "زينب سليم رجب",
+    "english1": "24",
+    "math1": "24",
+    "arabic": "63",
+    "computerSkills1": "42",
+    "electricalProperties": "42",
+    "physics": "22"
+  },
+  {
+    "subscriptionNumber": "5310",
+    "fullName": "زينب قداما حسن",
+    "english1": "78",
+    "math1": "74",
+    "arabic": "83",
+    "computerSkills1": "78",
+    "electricalProperties": "88",
+    "physics": "69"
+  },
+  {
+    "subscriptionNumber": "5292",
+    "fullName": "زينب مازن نجمو",
+    "english1": "84",
+    "math1": "85",
+    "arabic": "94",
+    "computerSkills1": "89",
+    "electricalProperties": "86",
+    "physics": "82"
+  },
+  {
+    "subscriptionNumber": "5156",
+    "fullName": "زينب يوسف ضاهر",
+    "english1": "60",
+    "math1": "68",
+    "arabic": "79",
+    "computerSkills1": "71",
+    "electricalProperties": "76",
+    "physics": "54"
+  },
+  {
+    "subscriptionNumber": "5304",
+    "fullName": "زينه روبيل شباني",
+    "english1": "92",
+    "math1": "54",
+    "arabic": "73",
+    "computerSkills1": "64",
+    "electricalProperties": "82",
+    "physics": "60"
+  },
+  {
+    "subscriptionNumber": "5151",
+    "fullName": "زينه زهير ابراهيم",
+    "english1": "72",
+    "math1": "48",
+    "arabic": "79",
+    "computerSkills1": "75",
+    "electricalProperties": "88",
+    "physics": "73"
+  },
+  {
+    "subscriptionNumber": "5196",
+    "fullName": "زينه سامر قره علي",
+    "english1": "76",
+    "math1": "81",
+    "arabic": "97",
+    "computerSkills1": "77",
+    "electricalProperties": "90",
+    "physics": "83"
+  },
+  {
+    "subscriptionNumber": "5294",
+    "fullName": "زينه عدنان زاده",
+    "english1": "42",
+    "math1": "29",
+    "arabic": "46",
+    "computerSkills1": "52",
+    "electricalProperties": "46",
+    "physics": "26"
+  },
+  {
+    "subscriptionNumber": "5147",
+    "fullName": "ساره رائد نحلوس",
+    "english1": "64",
+    "math1": "88",
+    "arabic": "79",
+    "computerSkills1": "60",
+    "electricalProperties": "90",
+    "physics": "90"
+  },
+  {
+    "subscriptionNumber": "5132",
+    "fullName": "سالي بلال اسماعيل",
+    "english1": "74",
+    "math1": "68",
+    "arabic": "83",
+    "computerSkills1": "87",
+    "electricalProperties": "86",
+    "physics": "60"
+  },
+  {
+    "subscriptionNumber": "5300",
+    "fullName": "سامر غيث صالح",
+    "english1": "66",
+    "math1": "62",
+    "arabic": "76",
+    "computerSkills1": "0",
+    "electricalProperties": "70",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "5306",
+    "fullName": "ساندي مالك ديبه",
+    "english1": "70",
+    "math1": "0",
+    "arabic": "50",
+    "computerSkills1": "39",
+    "electricalProperties": "54",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "5031",
+    "fullName": "سدرة زهير حبيب",
+    "english1": "96",
+    "math1": "68",
+    "arabic": "81",
+    "computerSkills1": "78",
+    "electricalProperties": "74",
+    "physics": "69"
+  },
+  {
+    "subscriptionNumber": "5317",
+    "fullName": "سلطان سائر محمد",
+    "english1": "74",
+    "math1": "73",
+    "arabic": "71",
+    "computerSkills1": "65",
+    "electricalProperties": "66",
+    "physics": "48"
+  },
+  {
+    "subscriptionNumber": "5087",
+    "fullName": "ريان محمود شلال",
+    "english1": "76",
+    "math1": "72",
+    "arabic": "71",
+    "computerSkills1": "83",
+    "electricalProperties": "64",
+    "physics": "56"
+  },
+  {
+    "subscriptionNumber": "5100",
+    "fullName": "سليم ماهر طوبال",
+    "english1": "54",
+    "math1": "17",
+    "arabic": "0",
+    "computerSkills1": "48",
+    "electricalProperties": "32",
+    "physics": "18"
+  },
+  {
+    "subscriptionNumber": "5081",
+    "fullName": "سليمان قصي زحلوط",
+    "english1": "76",
+    "math1": "52",
+    "arabic": "66",
+    "computerSkills1": "62",
+    "electricalProperties": "44",
+    "physics": "22"
+  },
+  {
+    "subscriptionNumber": "5222",
+    "fullName": "سليمان ياسر معلا",
+    "english1": "72",
+    "math1": "54",
+    "arabic": "80",
+    "computerSkills1": "66",
+    "electricalProperties": "70",
+    "physics": "30"
+  },
+  {
+    "subscriptionNumber": "5152",
+    "fullName": "سما هيثم البيطار",
+    "english1": "42",
+    "math1": "58",
+    "arabic": "72",
+    "computerSkills1": "72",
+    "electricalProperties": "50",
+    "physics": "84"
+  },
+  {
+    "subscriptionNumber": "5296",
+    "fullName": "سندس مازن الحايك",
+    "english1": "80",
+    "math1": "78",
+    "arabic": "81",
+    "computerSkills1": "78",
+    "electricalProperties": "70",
+    "physics": "65"
+  },
+  {
+    "subscriptionNumber": "5143",
+    "fullName": "سونيا احمد ازهري",
+    "english1": "46",
+    "math1": "53",
+    "arabic": "32",
+    "computerSkills1": "65",
+    "electricalProperties": "66",
+    "physics": "64"
+  },
+  {
+    "subscriptionNumber": "5307",
+    "fullName": "سيدرا غزوان عبود",
+    "english1": "48",
+    "math1": "35",
+    "arabic": "79",
+    "computerSkills1": "47",
+    "electricalProperties": "70",
+    "physics": "27"
+  },
+  {
+    "subscriptionNumber": "5305",
+    "fullName": "سيدرا ماهر محفوض",
+    "english1": "82",
+    "math1": "69",
+    "arabic": "84",
+    "computerSkills1": "82",
+    "electricalProperties": "64",
+    "physics": "53"
+  },
+  {
+    "subscriptionNumber": "0",
+    "fullName": "سيدرة ابراهيم الغانم",
+    "english1": "0",
+    "math1": "0",
+    "arabic": "0",
+    "computerSkills1": "0",
+    "electricalProperties": "0",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "5078",
+    "fullName": "سيدره اسعد اسعد",
+    "english1": "46",
+    "math1": "41",
+    "arabic": "70",
+    "computerSkills1": "52",
+    "electricalProperties": "52",
+    "physics": "50"
+  },
+  {
+    "subscriptionNumber": "5146",
+    "fullName": "شام إهاب اليتيم",
+    "english1": "82",
+    "math1": "86",
+    "arabic": "92",
+    "computerSkills1": "83",
+    "electricalProperties": "78",
+    "physics": "79"
+  },
+  {
+    "subscriptionNumber": "5097",
+    "fullName": "شام عبد الحنان مشلح",
+    "english1": "62",
+    "math1": "43",
+    "arabic": "52",
+    "computerSkills1": "66",
+    "electricalProperties": "42",
+    "physics": "31"
+  },
+  {
+    "subscriptionNumber": "5159",
+    "fullName": "شام عثمان عيطه",
+    "english1": "66",
+    "math1": "71",
+    "arabic": "95",
+    "computerSkills1": "0",
+    "electricalProperties": "70",
+    "physics": "47"
+  },
+  {
+    "subscriptionNumber": "5053",
+    "fullName": "شام هيثم الحسن",
+    "english1": "70",
+    "math1": "71",
+    "arabic": "82",
+    "computerSkills1": "77",
+    "electricalProperties": "86",
+    "physics": "85"
+  },
+  {
+    "subscriptionNumber": "5206",
+    "fullName": "شغف سهيل سعيد",
+    "english1": "48",
+    "math1": "36",
+    "arabic": "61",
+    "computerSkills1": "31",
+    "electricalProperties": "44",
+    "physics": "26"
+  },
+  {
+    "subscriptionNumber": "5163",
+    "fullName": "شفيق عبد المنعم كروم",
+    "english1": "70",
+    "math1": "62",
+    "arabic": "76",
+    "computerSkills1": "66",
+    "electricalProperties": "82",
+    "physics": "40"
+  },
+  {
+    "subscriptionNumber": "5088",
+    "fullName": "شهد حسان حيدر",
+    "english1": "78",
+    "math1": "83",
+    "arabic": "91",
+    "computerSkills1": "81",
+    "electricalProperties": "86",
+    "physics": "66"
+  },
+  {
+    "subscriptionNumber": "5301",
+    "fullName": "شهد زكريا السيد",
+    "english1": "38",
+    "math1": "52",
+    "arabic": "60",
+    "computerSkills1": "56",
+    "electricalProperties": "44",
+    "physics": "36"
+  },
+  {
+    "subscriptionNumber": "5148",
+    "fullName": "شهد سامر السليمان الجماس",
+    "english1": "90",
+    "math1": "88",
+    "arabic": "98",
+    "computerSkills1": "96",
+    "electricalProperties": "96",
+    "physics": "92"
+  },
+  {
+    "subscriptionNumber": "5138",
+    "fullName": "شهد شادي حوريه",
+    "english1": "58",
+    "math1": "36",
+    "arabic": "51",
+    "computerSkills1": "38",
+    "electricalProperties": "30",
+    "physics": "23"
+  },
+  {
+    "subscriptionNumber": "5157",
+    "fullName": "شهد طلال درويشو",
+    "english1": "88",
+    "math1": "96",
+    "arabic": "82",
+    "computerSkills1": "97",
+    "electricalProperties": "90",
+    "physics": "89"
+  },
+  {
+    "subscriptionNumber": "5135",
+    "fullName": "شهد طلعت اسماعيل",
+    "english1": "64",
+    "math1": "54",
+    "arabic": "78",
+    "computerSkills1": "71",
+    "electricalProperties": "80",
+    "physics": "65"
+  },
+  {
+    "subscriptionNumber": "5089",
+    "fullName": "شهد علي صالح",
+    "english1": "94",
+    "math1": "91",
+    "arabic": "97",
+    "computerSkills1": "96",
+    "electricalProperties": "96",
+    "physics": "84"
+  },
+  {
+    "subscriptionNumber": "5142",
+    "fullName": "شهد عمر عكيلي",
+    "english1": "78",
+    "math1": "65",
+    "arabic": "81",
+    "computerSkills1": "63",
+    "electricalProperties": "84",
+    "physics": "53"
+  },
+  {
+    "subscriptionNumber": "5026",
+    "fullName": "شهد فجر غصن",
+    "english1": "0",
+    "math1": "0",
+    "arabic": "0",
+    "computerSkills1": "0",
+    "electricalProperties": "0",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "5133",
+    "fullName": "شهد مالك بغداد",
+    "english1": "86",
+    "math1": "87",
+    "arabic": "93",
+    "computerSkills1": "76",
+    "electricalProperties": "92",
+    "physics": "52"
+  },
+  {
+    "subscriptionNumber": "5295",
+    "fullName": "شهد محمد علي",
+    "english1": "80",
+    "math1": "65",
+    "arabic": "82",
+    "computerSkills1": "86",
+    "electricalProperties": "90",
+    "physics": "75"
+  },
+  {
+    "subscriptionNumber": "5158",
+    "fullName": "شهد مصطفى علي",
+    "english1": "66",
+    "math1": "41",
+    "arabic": "84",
+    "computerSkills1": "66",
+    "electricalProperties": "74",
+    "physics": "20"
+  },
+  {
+    "subscriptionNumber": "5095",
+    "fullName": "شهد هاني طباخ",
+    "english1": "78",
+    "math1": "78",
+    "arabic": "83",
+    "computerSkills1": "64",
+    "electricalProperties": "46",
+    "physics": "66"
+  },
+  {
+    "subscriptionNumber": "5145",
+    "fullName": "شهد وائل ابراهيم",
+    "english1": "86",
+    "math1": "85",
+    "arabic": "89",
+    "computerSkills1": "0",
+    "electricalProperties": "88",
+    "physics": "88"
+  },
+  {
+    "subscriptionNumber": "5178",
+    "fullName": "حلا محمد الذكر",
+    "english1": "34",
+    "math1": "45",
+    "arabic": "55",
+    "computerSkills1": "37",
+    "electricalProperties": "44",
+    "physics": "21"
+  },
+  {
+    "subscriptionNumber": "5108",
+    "fullName": "صفاء محمد موسى",
+    "english1": "76",
+    "math1": "59",
+    "arabic": "78",
+    "computerSkills1": "62",
+    "electricalProperties": "70",
+    "physics": "26"
+  },
+  {
+    "subscriptionNumber": "5188",
+    "fullName": "طارق حسام الدين كردي",
+    "english1": "32",
+    "math1": "46",
+    "arabic": "62",
+    "computerSkills1": "43",
+    "electricalProperties": "38",
+    "physics": "21"
+  },
+  {
+    "subscriptionNumber": "5398",
+    "fullName": "عادل عبد المنعم مصطفى",
+    "english1": "76",
+    "math1": "70",
+    "arabic": "83",
+    "computerSkills1": "62",
+    "electricalProperties": "66",
+    "physics": "35"
+  },
+  {
+    "subscriptionNumber": "4991",
+    "fullName": "عباده راتب قره علي",
+    "english1": "62",
+    "math1": "42",
+    "arabic": "70",
+    "computerSkills1": "57",
+    "electricalProperties": "56",
+    "physics": "33"
+  },
+  {
+    "subscriptionNumber": "5334",
+    "fullName": "عباده يعرب محمد",
+    "english1": "98",
+    "math1": "45",
+    "arabic": "83",
+    "computerSkills1": "58",
+    "electricalProperties": "42",
+    "physics": "18"
+  },
+  {
+    "subscriptionNumber": "5328",
+    "fullName": "عبد الرحمن خالد شريتح",
+    "english1": "56",
+    "math1": "47",
+    "arabic": "47",
+    "computerSkills1": "56",
+    "electricalProperties": "58",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "5321",
+    "fullName": "عبد الرحمن محمد بازار",
+    "english1": "72",
+    "math1": "35",
+    "arabic": "69",
+    "computerSkills1": "69",
+    "electricalProperties": "58",
+    "physics": "54"
+  },
+  {
+    "subscriptionNumber": "5049",
+    "fullName": "عبد الرحمن محمد ياسين",
+    "english1": "0",
+    "math1": "0",
+    "arabic": "0",
+    "computerSkills1": "0",
+    "electricalProperties": "0",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "5263",
+    "fullName": "عبد الرحمن مهنا المحمد",
+    "english1": "50",
+    "math1": "25",
+    "arabic": "54",
+    "computerSkills1": "58",
+    "electricalProperties": "56",
+    "physics": "27"
+  },
+  {
+    "subscriptionNumber": "5289",
+    "fullName": "عبد الرحيم محمد الزيدان",
+    "english1": "0",
+    "math1": "0",
+    "arabic": "0",
+    "computerSkills1": "0",
+    "electricalProperties": "0",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "5171",
+    "fullName": "عبد الكريم شادي الكاطع",
+    "english1": "54",
+    "math1": "23",
+    "arabic": "42",
+    "computerSkills1": "48",
+    "electricalProperties": "38",
+    "physics": "18"
+  },
+  {
+    "subscriptionNumber": "5194",
+    "fullName": "عبد الكريم محمد ابو طه",
+    "english1": "50",
+    "math1": "55",
+    "arabic": "80",
+    "computerSkills1": "47",
+    "electricalProperties": "62",
+    "physics": "22"
+  },
+  {
+    "subscriptionNumber": "5329",
+    "fullName": "عبد الله اسامة طريفي",
+    "english1": "74",
+    "math1": "57",
+    "arabic": "79",
+    "computerSkills1": "62",
+    "electricalProperties": "48",
+    "physics": "27"
+  },
+  {
+    "subscriptionNumber": "5187",
+    "fullName": "عبد الله بشار خربطلي",
+    "english1": "72",
+    "math1": "65",
+    "arabic": "83",
+    "computerSkills1": "56",
+    "electricalProperties": "72",
+    "physics": "21"
+  },
+  {
+    "subscriptionNumber": "5333",
+    "fullName": "عبد الله محمد الخامس دوبا",
+    "english1": "54",
+    "math1": "13",
+    "arabic": "76",
+    "computerSkills1": "51",
+    "electricalProperties": "38",
+    "physics": "45"
+  },
+  {
+    "subscriptionNumber": "5164",
+    "fullName": "عبد الله محمد شحيدي",
+    "english1": "74",
+    "math1": "39",
+    "arabic": "79",
+    "computerSkills1": "0",
+    "electricalProperties": "70",
+    "physics": "38"
+  },
+  {
+    "subscriptionNumber": "5189",
+    "fullName": "عبد الله محمود الاحمد",
+    "english1": "54",
+    "math1": "0",
+    "arabic": "0",
+    "computerSkills1": "47",
+    "electricalProperties": "0",
+    "physics": "18"
+  },
+  {
+    "subscriptionNumber": "5106",
+    "fullName": "عبد المعين مصطفى الزير",
+    "english1": "74",
+    "math1": "95",
+    "arabic": "88",
+    "computerSkills1": "78",
+    "electricalProperties": "82",
+    "physics": "63"
+  },
+  {
+    "subscriptionNumber": "5186",
+    "fullName": "عبد الهادي صلاح يوسف",
+    "english1": "80",
+    "math1": "74",
+    "arabic": "83",
+    "computerSkills1": "67",
+    "electricalProperties": "70",
+    "physics": "50"
+  },
+  {
+    "subscriptionNumber": "0",
+    "fullName": "عبدالرحمن عبدالله العظم",
+    "english1": "0",
+    "math1": "0",
+    "arabic": "0",
+    "computerSkills1": "0",
+    "electricalProperties": "0",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "4985",
+    "fullName": "عبدالرحمن محمد العبدالله",
+    "english1": "0",
+    "math1": "50",
+    "arabic": "90",
+    "computerSkills1": "70",
+    "electricalProperties": "72",
+    "physics": "51"
+  },
+  {
+    "subscriptionNumber": "4990",
+    "fullName": "عبدالله مصطفى طماشي",
+    "english1": "0",
+    "math1": "19",
+    "arabic": "20",
+    "computerSkills1": "47",
+    "electricalProperties": "0",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "5326",
+    "fullName": "عدنان فيصل مصري مقلد",
+    "english1": "34",
+    "math1": "11",
+    "arabic": "0",
+    "computerSkills1": "52",
+    "electricalProperties": "28",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "5324",
+    "fullName": "عدي جمال علي",
+    "english1": "0",
+    "math1": "0",
+    "arabic": "54",
+    "computerSkills1": "0",
+    "electricalProperties": "36",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "0",
+    "fullName": "عز الدين سلمان قنجراوي",
+    "english1": "28",
+    "math1": "11",
+    "arabic": "36",
+    "computerSkills1": "48",
+    "electricalProperties": "28",
+    "physics": "25"
+  },
+  {
+    "subscriptionNumber": "5169",
+    "fullName": "علا اياد مقصود",
+    "english1": "88",
+    "math1": "82",
+    "arabic": "88",
+    "computerSkills1": "83",
+    "electricalProperties": "68",
+    "physics": "76"
+  },
+  {
+    "subscriptionNumber": "5168",
+    "fullName": "علا عبد الله صائمه",
+    "english1": "90",
+    "math1": "85",
+    "arabic": "94",
+    "computerSkills1": "96",
+    "electricalProperties": "92",
+    "physics": "87"
+  },
+  {
+    "subscriptionNumber": "5105",
+    "fullName": "علاء الدين أحمد ديبو",
+    "english1": "80",
+    "math1": "77",
+    "arabic": "42",
+    "computerSkills1": "76",
+    "electricalProperties": "56",
+    "physics": "65"
+  },
+  {
+    "subscriptionNumber": "5177",
+    "fullName": "علي ابراهيم احمد",
+    "english1": "52",
+    "math1": "37",
+    "arabic": "80",
+    "computerSkills1": "71",
+    "electricalProperties": "60",
+    "physics": "34"
+  },
+  {
+    "subscriptionNumber": "5290",
+    "fullName": "علي ابراهيم حسامو",
+    "english1": "76",
+    "math1": "72",
+    "arabic": "88",
+    "computerSkills1": "54",
+    "electricalProperties": "76",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "4983",
+    "fullName": "علي ايمن عثمان",
+    "english1": "20",
+    "math1": "19",
+    "arabic": "39",
+    "computerSkills1": "47",
+    "electricalProperties": "48",
+    "physics": "20"
+  },
+  {
+    "subscriptionNumber": "5332",
+    "fullName": "علي اياد دره",
+    "english1": "54",
+    "math1": "9",
+    "arabic": "38",
+    "computerSkills1": "52",
+    "electricalProperties": "0",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "0",
+    "fullName": "علي باسم سليمان",
+    "english1": "0",
+    "math1": "0",
+    "arabic": "0",
+    "computerSkills1": "0",
+    "electricalProperties": "0",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "4992",
+    "fullName": "علي بسام حسين",
+    "english1": "82",
+    "math1": "77",
+    "arabic": "91",
+    "computerSkills1": "87",
+    "electricalProperties": "94",
+    "physics": "64"
+  },
+  {
+    "subscriptionNumber": "0",
+    "fullName": "علي حسن محمود",
+    "english1": "0",
+    "math1": "0",
+    "arabic": "0",
+    "computerSkills1": "0",
+    "electricalProperties": "0",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "4984",
+    "fullName": "علي خالد سعد",
+    "english1": "34",
+    "math1": "22",
+    "arabic": "56",
+    "computerSkills1": "46",
+    "electricalProperties": "46",
+    "physics": "18"
+  },
+  {
+    "subscriptionNumber": "5173",
+    "fullName": "علي رشيد علي",
+    "english1": "84",
+    "math1": "83",
+    "arabic": "88",
+    "computerSkills1": "92",
+    "electricalProperties": "88",
+    "physics": "78"
+  },
+  {
+    "subscriptionNumber": "5107",
+    "fullName": "علي رفيق حسن",
+    "english1": "50",
+    "math1": "31",
+    "arabic": "72",
+    "computerSkills1": "54",
+    "electricalProperties": "38",
+    "physics": "24"
+  },
+  {
+    "subscriptionNumber": "5184",
+    "fullName": "علي سامر بركات",
+    "english1": "46",
+    "math1": "15",
+    "arabic": "50",
+    "computerSkills1": "37",
+    "electricalProperties": "40",
+    "physics": "18"
+  },
+  {
+    "subscriptionNumber": "4987",
+    "fullName": "علي سامر محمود",
+    "english1": "64",
+    "math1": "72",
+    "arabic": "98",
+    "computerSkills1": "64",
+    "electricalProperties": "68",
+    "physics": "23"
+  },
+  {
+    "subscriptionNumber": "5174",
+    "fullName": "علي عادل ربيب",
+    "english1": "58",
+    "math1": "59",
+    "arabic": "87",
+    "computerSkills1": "81",
+    "electricalProperties": "58",
+    "physics": "51"
+  },
+  {
+    "subscriptionNumber": "4988",
+    "fullName": "علي عصام صافي",
+    "english1": "60",
+    "math1": "43",
+    "arabic": "70",
+    "computerSkills1": "68",
+    "electricalProperties": "68",
+    "physics": "21"
+  },
+  {
+    "subscriptionNumber": "5176",
+    "fullName": "علي فؤاد اسبر",
+    "english1": "36",
+    "math1": "38",
+    "arabic": "46",
+    "computerSkills1": "63",
+    "electricalProperties": "42",
+    "physics": "20"
+  },
+  {
+    "subscriptionNumber": "5185",
+    "fullName": "علي محمد صقور",
+    "english1": "68",
+    "math1": "31",
+    "arabic": "61",
+    "computerSkills1": "41",
+    "electricalProperties": "78",
+    "physics": "18"
+  },
+  {
+    "subscriptionNumber": "5104",
+    "fullName": "علي محمد صهيوني",
+    "english1": "56",
+    "math1": "67",
+    "arabic": "82",
+    "computerSkills1": "68",
+    "electricalProperties": "86",
+    "physics": "70"
+  },
+  {
+    "subscriptionNumber": "5191",
+    "fullName": "علي هشام عيسى",
+    "english1": "84",
+    "math1": "67",
+    "arabic": "96",
+    "computerSkills1": "68",
+    "electricalProperties": "70",
+    "physics": "70"
+  },
+  {
+    "subscriptionNumber": "5319",
+    "fullName": "علي وسامه احمد",
+    "english1": "0",
+    "math1": "0",
+    "arabic": "0",
+    "computerSkills1": "0",
+    "electricalProperties": "0",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "0",
+    "fullName": "عماد جمال الشبلاق",
+    "english1": "0",
+    "math1": "0",
+    "arabic": "0",
+    "computerSkills1": "0",
+    "electricalProperties": "0",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "5172",
+    "fullName": "عمار عماد الماضي",
+    "english1": "54",
+    "math1": "50",
+    "arabic": "71",
+    "computerSkills1": "70",
+    "electricalProperties": "78",
+    "physics": "61"
+  },
+  {
+    "subscriptionNumber": "5330",
+    "fullName": "عمر عبد العزيز صديق فاروسي",
+    "english1": "84",
+    "math1": "6",
+    "arabic": "26",
+    "computerSkills1": "45",
+    "electricalProperties": "44",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "4986",
+    "fullName": "عمر نواف الحويشان",
+    "english1": "0",
+    "math1": "0",
+    "arabic": "0",
+    "computerSkills1": "0",
+    "electricalProperties": "0",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "4933",
+    "fullName": "عيدو حسن العبدالله",
+    "english1": "0",
+    "math1": "0",
+    "arabic": "0",
+    "computerSkills1": "0",
+    "electricalProperties": "0",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "5279",
+    "fullName": "عيسى ثائر ديبه",
+    "english1": "70",
+    "math1": "26",
+    "arabic": "60",
+    "computerSkills1": "52",
+    "electricalProperties": "46",
+    "physics": "6"
+  },
+  {
+    "subscriptionNumber": "5167",
+    "fullName": "عيسى وليد شدود",
+    "english1": "86",
+    "math1": "32",
+    "arabic": "72",
+    "computerSkills1": "50",
+    "electricalProperties": "58",
+    "physics": "6"
+  },
+  {
+    "subscriptionNumber": "5322",
+    "fullName": "غدير سلمان العتم",
+    "english1": "66",
+    "math1": "46",
+    "arabic": "76",
+    "computerSkills1": "60",
+    "electricalProperties": "76",
+    "physics": "20"
+  },
+  {
+    "subscriptionNumber": "5004",
+    "fullName": "غدير ياسر سعيد",
+    "english1": "68",
+    "math1": "49",
+    "arabic": "86",
+    "computerSkills1": "55",
+    "electricalProperties": "82",
+    "physics": "20"
+  },
+  {
+    "subscriptionNumber": "5183",
+    "fullName": "غزل باسم عيسى",
+    "english1": "68",
+    "math1": "68",
+    "arabic": "79",
+    "computerSkills1": "64",
+    "electricalProperties": "82",
+    "physics": "30"
+  },
+  {
+    "subscriptionNumber": "5175",
+    "fullName": "غزل عماد سليمان",
+    "english1": "88",
+    "math1": "69",
+    "arabic": "90",
+    "computerSkills1": "93",
+    "electricalProperties": "74",
+    "physics": "38"
+  },
+  {
+    "subscriptionNumber": "5267",
+    "fullName": "غزل نادر حمود",
+    "english1": "20",
+    "math1": "78",
+    "arabic": "94",
+    "computerSkills1": "89",
+    "electricalProperties": "96",
+    "physics": "75"
+  },
+  {
+    "subscriptionNumber": "5099",
+    "fullName": "غيث علي حجازي",
+    "english1": "84",
+    "math1": "61",
+    "arabic": "72",
+    "computerSkills1": "69",
+    "electricalProperties": "78",
+    "physics": "49"
+  },
+  {
+    "subscriptionNumber": "5170",
+    "fullName": "غيث غسان اوزون",
+    "english1": "28",
+    "math1": "37",
+    "arabic": "52",
+    "computerSkills1": "49",
+    "electricalProperties": "42",
+    "physics": "28"
+  },
+  {
+    "subscriptionNumber": "5320",
+    "fullName": "غيد محمد اسماعيل",
+    "english1": "28",
+    "math1": "29",
+    "arabic": "53",
+    "computerSkills1": "48",
+    "electricalProperties": "36",
+    "physics": "20"
+  },
+  {
+    "subscriptionNumber": "5342",
+    "fullName": "فاروق احمد شيخ خميس",
+    "english1": "54",
+    "math1": "26",
+    "arabic": "71",
+    "computerSkills1": "57",
+    "electricalProperties": "44",
+    "physics": "43"
+  },
+  {
+    "subscriptionNumber": "0",
+    "fullName": "فاروق عزيز الاسماعيل",
+    "english1": "0",
+    "math1": "0",
+    "arabic": "0",
+    "computerSkills1": "0",
+    "electricalProperties": "0",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "5211",
+    "fullName": "فاطر مصطفى حسام الدين",
+    "english1": "70",
+    "math1": "67",
+    "arabic": "77",
+    "computerSkills1": "83",
+    "electricalProperties": "86",
+    "physics": "42"
+  },
+  {
+    "subscriptionNumber": "0",
+    "fullName": "فرح عزت ديوب",
+    "english1": "0",
+    "math1": "0",
+    "arabic": "0",
+    "computerSkills1": "0",
+    "electricalProperties": "0",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "5229",
+    "fullName": "فرح وهيب داود",
+    "english1": "90",
+    "math1": "96",
+    "arabic": "94",
+    "computerSkills1": "91",
+    "electricalProperties": "86",
+    "physics": "86"
+  },
+  {
+    "subscriptionNumber": "5018",
+    "fullName": "فريد محمد تركماني",
+    "english1": "40",
+    "math1": "25",
+    "arabic": "50",
+    "computerSkills1": "49",
+    "electricalProperties": "36",
+    "physics": "26"
+  },
+  {
+    "subscriptionNumber": "5030",
+    "fullName": "فيصل محمد أبو المجد ادريس",
+    "english1": "56",
+    "math1": "44",
+    "arabic": "78",
+    "computerSkills1": "72",
+    "electricalProperties": "72",
+    "physics": "58"
+  },
+  {
+    "subscriptionNumber": "4998",
+    "fullName": "قسوره معن مكنا",
+    "english1": "72",
+    "math1": "26",
+    "arabic": "44",
+    "computerSkills1": "43",
+    "electricalProperties": "72",
+    "physics": "21"
+  },
+  {
+    "subscriptionNumber": "5341",
+    "fullName": "قصي سامر العلاوي",
+    "english1": "26",
+    "math1": "32",
+    "arabic": "39",
+    "computerSkills1": "48",
+    "electricalProperties": "0",
+    "physics": "44"
+  },
+  {
+    "subscriptionNumber": "5002",
+    "fullName": "كرستين محمد اسماعيل",
+    "english1": "78",
+    "math1": "47",
+    "arabic": "69",
+    "computerSkills1": "68",
+    "electricalProperties": "82",
+    "physics": "66"
+  },
+  {
+    "subscriptionNumber": "5343",
+    "fullName": "كرم غسان درويش",
+    "english1": "40",
+    "math1": "49",
+    "arabic": "47",
+    "computerSkills1": "66",
+    "electricalProperties": "80",
+    "physics": "40"
+  },
+  {
+    "subscriptionNumber": "5015",
+    "fullName": "كرم ماهر كنعان",
+    "english1": "74",
+    "math1": "33",
+    "arabic": "63",
+    "computerSkills1": "50",
+    "electricalProperties": "56",
+    "physics": "21"
+  },
+  {
+    "subscriptionNumber": "5208",
+    "fullName": "كريم فادي قبيلي",
+    "english1": "62",
+    "math1": "19",
+    "arabic": "54",
+    "computerSkills1": "61",
+    "electricalProperties": "54",
+    "physics": "20"
+  },
+  {
+    "subscriptionNumber": "5353",
+    "fullName": "كميل حمزة رحال",
+    "english1": "56",
+    "math1": "37",
+    "arabic": "64",
+    "computerSkills1": "62",
+    "electricalProperties": "62",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "5210",
+    "fullName": "لانا طلال فاضل",
+    "english1": "90",
+    "math1": "85",
+    "arabic": "95",
+    "computerSkills1": "93",
+    "electricalProperties": "88",
+    "physics": "91"
+  },
+  {
+    "subscriptionNumber": "5214",
+    "fullName": "لجين علي علي",
+    "english1": "60",
+    "math1": "44",
+    "arabic": "78",
+    "computerSkills1": "64",
+    "electricalProperties": "76",
+    "physics": "44"
+  },
+  {
+    "subscriptionNumber": "5019",
+    "fullName": "لجين محمد علي مرعش",
+    "english1": "70",
+    "math1": "71",
+    "arabic": "77",
+    "computerSkills1": "69",
+    "electricalProperties": "78",
+    "physics": "70"
+  },
+  {
+    "subscriptionNumber": "5198",
+    "fullName": "لمى احمد عيد",
+    "english1": "74",
+    "math1": "30",
+    "arabic": "85",
+    "computerSkills1": "53",
+    "electricalProperties": "64",
+    "physics": "25"
+  },
+  {
+    "subscriptionNumber": "5016",
+    "fullName": "لوتس احمد شوباصي",
+    "english1": "78",
+    "math1": "86",
+    "arabic": "91",
+    "computerSkills1": "79",
+    "electricalProperties": "92",
+    "physics": "89"
+  },
+  {
+    "subscriptionNumber": "5012",
+    "fullName": "ليث حسام العلي",
+    "english1": "78",
+    "math1": "74",
+    "arabic": "82",
+    "computerSkills1": "68",
+    "electricalProperties": "78",
+    "physics": "28"
+  },
+  {
+    "subscriptionNumber": "4993",
+    "fullName": "ليث راقي سلهب",
+    "english1": "42",
+    "math1": "78",
+    "arabic": "72",
+    "computerSkills1": "80",
+    "electricalProperties": "72",
+    "physics": "52"
+  },
+  {
+    "subscriptionNumber": "5199",
+    "fullName": "ليث زهير خضور",
+    "english1": "60",
+    "math1": "33",
+    "arabic": "63",
+    "computerSkills1": "48",
+    "electricalProperties": "54",
+    "physics": "20"
+  },
+  {
+    "subscriptionNumber": "5207",
+    "fullName": "ليث مروان جعفر",
+    "english1": "90",
+    "math1": "91",
+    "arabic": "93",
+    "computerSkills1": "94",
+    "electricalProperties": "90",
+    "physics": "88"
+  },
+  {
+    "subscriptionNumber": "5215",
+    "fullName": "ليلى احمد نجار",
+    "english1": "62",
+    "math1": "75",
+    "arabic": "72",
+    "computerSkills1": "59",
+    "electricalProperties": "56",
+    "physics": "37"
+  },
+  {
+    "subscriptionNumber": "5010",
+    "fullName": "ليلى حسام معلا",
+    "english1": "90",
+    "math1": "90",
+    "arabic": "88",
+    "computerSkills1": "90",
+    "electricalProperties": "84",
+    "physics": "61"
+  },
+  {
+    "subscriptionNumber": "5014",
+    "fullName": "ليلى مصطفى حموي",
+    "english1": "74",
+    "math1": "60",
+    "arabic": "69",
+    "computerSkills1": "71",
+    "electricalProperties": "69",
+    "physics": "50"
+  },
+  {
+    "subscriptionNumber": "5000",
+    "fullName": "ليليان فراس سليم",
+    "english1": "78",
+    "math1": "66",
+    "arabic": "86",
+    "computerSkills1": "77",
+    "electricalProperties": "76",
+    "physics": "34"
+  },
+  {
+    "subscriptionNumber": "5011",
+    "fullName": "ليليان ماهر حج عثمان",
+    "english1": "60",
+    "math1": "45",
+    "arabic": "68",
+    "computerSkills1": "51",
+    "electricalProperties": "60",
+    "physics": "52"
+  },
+  {
+    "subscriptionNumber": "5217",
+    "fullName": "لين بسام يوسف",
+    "english1": "86",
+    "math1": "54",
+    "arabic": "85",
+    "computerSkills1": "76",
+    "electricalProperties": "90",
+    "physics": "70"
+  },
+  {
+    "subscriptionNumber": "5345",
+    "fullName": "لين عمار زمزم",
+    "english1": "88",
+    "math1": "62",
+    "arabic": "86",
+    "computerSkills1": "54",
+    "electricalProperties": "72",
+    "physics": "45"
+  },
+  {
+    "subscriptionNumber": "5204",
+    "fullName": "لين محمد سائد فنري",
+    "english1": "66",
+    "math1": "35",
+    "arabic": "45",
+    "computerSkills1": "58",
+    "electricalProperties": "48",
+    "physics": "40"
+  },
+  {
+    "subscriptionNumber": "5020",
+    "fullName": "ماجد عبد الرحمن ياسين قصاب",
+    "english1": "36",
+    "math1": "35",
+    "arabic": "78",
+    "computerSkills1": "61",
+    "electricalProperties": "60",
+    "physics": "54"
+  },
+  {
+    "subscriptionNumber": "5347",
+    "fullName": "ماجد عصام درويش",
+    "english1": "74",
+    "math1": "21",
+    "arabic": "60",
+    "computerSkills1": "49",
+    "electricalProperties": "48",
+    "physics": "18"
+  },
+  {
+    "subscriptionNumber": "5351",
+    "fullName": "مارسيل لبيب ديبه",
+    "english1": "62",
+    "math1": "25",
+    "arabic": "35",
+    "computerSkills1": "43",
+    "electricalProperties": "44",
+    "physics": "23"
+  },
+  {
+    "subscriptionNumber": "5228",
+    "fullName": "ماريا خالد كليه",
+    "english1": "66",
+    "math1": "61",
+    "arabic": "75",
+    "computerSkills1": "67",
+    "electricalProperties": "74",
+    "physics": "70"
+  },
+  {
+    "subscriptionNumber": "5352",
+    "fullName": "ماهر محمد بلال",
+    "english1": "34",
+    "math1": "29",
+    "arabic": "28",
+    "computerSkills1": "48",
+    "electricalProperties": "28",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "5001",
+    "fullName": "مايا ايمن حسن",
+    "english1": "90",
+    "math1": "82",
+    "arabic": "91",
+    "computerSkills1": "91",
+    "electricalProperties": "92",
+    "physics": "93"
+  },
+  {
+    "subscriptionNumber": "5200",
+    "fullName": "مايا بسام علي",
+    "english1": "26",
+    "math1": "76",
+    "arabic": "93",
+    "computerSkills1": "91",
+    "electricalProperties": "78",
+    "physics": "84"
+  },
+  {
+    "subscriptionNumber": "5024",
+    "fullName": "مايا منذر العباس",
+    "english1": "84",
+    "math1": "73",
+    "arabic": "82",
+    "computerSkills1": "83",
+    "electricalProperties": "82",
+    "physics": "63"
+  },
+  {
+    "subscriptionNumber": "5201",
+    "fullName": "مايا يامن الرحيه",
+    "english1": "78",
+    "math1": "65",
+    "arabic": "48",
+    "computerSkills1": "78",
+    "electricalProperties": "70",
+    "physics": "44"
+  },
+  {
+    "subscriptionNumber": "5226",
+    "fullName": "مجد عبدالرحمن شاكوش",
+    "english1": "70",
+    "math1": "57",
+    "arabic": "72",
+    "computerSkills1": "69",
+    "electricalProperties": "70",
+    "physics": "22"
+  },
+  {
+    "subscriptionNumber": "5232",
+    "fullName": "مجد علي مبارك",
+    "english1": "54",
+    "math1": "0",
+    "arabic": "60",
+    "computerSkills1": "52",
+    "electricalProperties": "0",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "5190",
+    "fullName": "مجد محمد القاسم",
+    "english1": "0",
+    "math1": "0",
+    "arabic": "0",
+    "computerSkills1": "0",
+    "electricalProperties": "0",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "5349",
+    "fullName": "مجد مصطفى فارس",
+    "english1": "76",
+    "math1": "50",
+    "arabic": "71",
+    "computerSkills1": "75",
+    "electricalProperties": "62",
+    "physics": "56"
+  },
+  {
+    "subscriptionNumber": "5061",
+    "fullName": "مجد نزيه علي",
+    "english1": "0",
+    "math1": "0",
+    "arabic": "0",
+    "computerSkills1": "0",
+    "electricalProperties": "0",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "4998",
+    "fullName": "قسوره معن مكنا",
+    "english1": "42",
+    "math1": "67",
+    "arabic": "77",
+    "computerSkills1": "61",
+    "electricalProperties": "58",
+    "physics": "46"
+  },
+  {
+    "subscriptionNumber": "0",
+    "fullName": "محمد ابراهيم جمال",
+    "english1": "42",
+    "math1": "28",
+    "arabic": "0",
+    "computerSkills1": "53",
+    "electricalProperties": "0",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "5392",
+    "fullName": "محمد احمد أبو الشامات",
+    "english1": "50",
+    "math1": "47",
+    "arabic": "79",
+    "computerSkills1": "63",
+    "electricalProperties": "82",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "0",
+    "fullName": "محمد امير بدوي",
+    "english1": "0",
+    "math1": "0",
+    "arabic": "0",
+    "computerSkills1": "0",
+    "electricalProperties": "0",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "5203",
+    "fullName": "محمد ايهم فاضل",
+    "english1": "76",
+    "math1": "45",
+    "arabic": "72",
+    "computerSkills1": "88",
+    "electricalProperties": "80",
+    "physics": "42"
+  },
+  {
+    "subscriptionNumber": "5221",
+    "fullName": "محمد احمد جود",
+    "english1": "50",
+    "math1": "21",
+    "arabic": "40",
+    "computerSkills1": "57",
+    "electricalProperties": "32",
+    "physics": "20"
+  },
+  {
+    "subscriptionNumber": "5391",
+    "fullName": "محمد انس محي الدين",
+    "english1": "82",
+    "math1": "41",
+    "arabic": "75",
+    "computerSkills1": "54",
+    "electricalProperties": "54",
+    "physics": "25"
+  },
+  {
+    "subscriptionNumber": "5025",
+    "fullName": "محمد حبيب فؤاد يوسف",
+    "english1": "64",
+    "math1": "65",
+    "arabic": "63",
+    "computerSkills1": "61",
+    "electricalProperties": "54",
+    "physics": "58"
+  },
+  {
+    "subscriptionNumber": "5233",
+    "fullName": "محمد حسن جزار",
+    "english1": "74",
+    "math1": "85",
+    "arabic": "89",
+    "computerSkills1": "90",
+    "electricalProperties": "86",
+    "physics": "50"
+  },
+  {
+    "subscriptionNumber": "5197",
+    "fullName": "محمد حسن رجب",
+    "english1": "58",
+    "math1": "67",
+    "arabic": "76",
+    "computerSkills1": "73",
+    "electricalProperties": "76",
+    "physics": "31"
+  },
+  {
+    "subscriptionNumber": "5365",
+    "fullName": "محمد حسين العبد",
+    "english1": "56",
+    "math1": "46",
+    "arabic": "51",
+    "computerSkills1": "68",
+    "electricalProperties": "66",
+    "physics": "27"
+  },
+  {
+    "subscriptionNumber": "5368",
+    "fullName": "محمد خالد السعيد",
+    "english1": "0",
+    "math1": "0",
+    "arabic": "0",
+    "computerSkills1": "0",
+    "electricalProperties": "0",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "5313",
+    "fullName": "زينب حسين بدور",
+    "english1": "56",
+    "math1": "54",
+    "arabic": "67",
+    "computerSkills1": "52",
+    "electricalProperties": "78",
+    "physics": "75"
+  },
+  {
+    "subscriptionNumber": "4996",
+    "fullName": "محمد صالح حلاق",
+    "english1": "64",
+    "math1": "22",
+    "arabic": "43",
+    "computerSkills1": "61",
+    "electricalProperties": "26",
+    "physics": "23"
+  },
+  {
+    "subscriptionNumber": "5230",
+    "fullName": "محمد صديق جوني",
+    "english1": "58",
+    "math1": "55",
+    "arabic": "64",
+    "computerSkills1": "58",
+    "electricalProperties": "66",
+    "physics": "41"
+  },
+  {
+    "subscriptionNumber": "5372",
+    "fullName": "محمد طارق العلوش",
+    "english1": "80",
+    "math1": "36",
+    "arabic": "60",
+    "computerSkills1": "97",
+    "electricalProperties": "86",
+    "physics": "56"
+  },
+  {
+    "subscriptionNumber": "5338",
+    "fullName": "محمد عبد الله خليل",
+    "english1": "24",
+    "math1": "34",
+    "arabic": "60",
+    "computerSkills1": "58",
+    "electricalProperties": "54",
+    "physics": "25"
+  },
+  {
+    "subscriptionNumber": "5003",
+    "fullName": "محمد علي حسن",
+    "english1": "62",
+    "math1": "51",
+    "arabic": "71",
+    "computerSkills1": "50",
+    "electricalProperties": "66",
+    "physics": "59"
+  },
+  {
+    "subscriptionNumber": "5005",
+    "fullName": "محمد علي خليل",
+    "english1": "78",
+    "math1": "58",
+    "arabic": "78",
+    "computerSkills1": "72",
+    "electricalProperties": "66",
+    "physics": "50"
+  },
+  {
+    "subscriptionNumber": "0",
+    "fullName": "محمد فدا محمد سامر السكري",
+    "english1": "0",
+    "math1": "0",
+    "arabic": "0",
+    "computerSkills1": "0",
+    "electricalProperties": "0",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "5231",
+    "fullName": "محمد كمال مهند ترك",
+    "english1": "56",
+    "math1": "79",
+    "arabic": "74",
+    "computerSkills1": "60",
+    "electricalProperties": "72",
+    "physics": "59"
+  },
+  {
+    "subscriptionNumber": "5209",
+    "fullName": "محمد محمود شما",
+    "english1": "80",
+    "math1": "84",
+    "arabic": "84",
+    "computerSkills1": "81",
+    "electricalProperties": "68",
+    "physics": "20"
+  },
+  {
+    "subscriptionNumber": "5366",
+    "fullName": "محمد نور اكرم الشيخ",
+    "english1": "60",
+    "math1": "67",
+    "arabic": "74",
+    "computerSkills1": "56",
+    "electricalProperties": "78",
+    "physics": "71"
+  },
+  {
+    "subscriptionNumber": "0",
+    "fullName": "محمد هادي عدنان حسن",
+    "english1": "0",
+    "math1": "0",
+    "arabic": "0",
+    "computerSkills1": "0",
+    "electricalProperties": "0",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "5022",
+    "fullName": "محمد هاني بلال غلاونجي",
+    "english1": "50",
+    "math1": "42",
+    "arabic": "34",
+    "computerSkills1": "70",
+    "electricalProperties": "48",
+    "physics": "22"
+  },
+  {
+    "subscriptionNumber": "5335",
+    "fullName": "محمود زكوان حمدو",
+    "english1": "76",
+    "math1": "22",
+    "arabic": "69",
+    "computerSkills1": "60",
+    "electricalProperties": "40",
+    "physics": "20"
+  },
+  {
+    "subscriptionNumber": "5006",
+    "fullName": "محمود شادي صبح",
+    "english1": "94",
+    "math1": "99",
+    "arabic": "88",
+    "computerSkills1": "96",
+    "electricalProperties": "96",
+    "physics": "91"
+  },
+  {
+    "subscriptionNumber": "5339",
+    "fullName": "محمود يوسف سليمان",
+    "english1": "0",
+    "math1": "0",
+    "arabic": "0",
+    "computerSkills1": "0",
+    "electricalProperties": "0",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "5013",
+    "fullName": "مرح ذو الفقار موسى",
+    "english1": "46",
+    "math1": "40",
+    "arabic": "42",
+    "computerSkills1": "54",
+    "electricalProperties": "44",
+    "physics": "25"
+  },
+  {
+    "subscriptionNumber": "5021",
+    "fullName": "مروان احمد سبع الدير",
+    "english1": "62",
+    "math1": "37",
+    "arabic": "51",
+    "computerSkills1": "66",
+    "electricalProperties": "64",
+    "physics": "24"
+  },
+  {
+    "subscriptionNumber": "5216",
+    "fullName": "مريم احمد عمران",
+    "english1": "64",
+    "math1": "35",
+    "arabic": "76",
+    "computerSkills1": "82",
+    "electricalProperties": "74",
+    "physics": "58"
+  },
+  {
+    "subscriptionNumber": "5212",
+    "fullName": "مريم اياد يزبك",
+    "english1": "78",
+    "math1": "52",
+    "arabic": "84",
+    "computerSkills1": "67",
+    "electricalProperties": "82",
+    "physics": "25"
+  },
+  {
+    "subscriptionNumber": "5017",
+    "fullName": "مريم حسن عروس",
+    "english1": "86",
+    "math1": "68",
+    "arabic": "95",
+    "computerSkills1": "90",
+    "electricalProperties": "94",
+    "physics": "81"
+  },
+  {
+    "subscriptionNumber": "5023",
+    "fullName": "مريم زهير سلمان",
+    "english1": "72",
+    "math1": "32",
+    "arabic": "84",
+    "computerSkills1": "65",
+    "electricalProperties": "78",
+    "physics": "24"
+  },
+  {
+    "subscriptionNumber": "5337",
+    "fullName": "مريم شادي الحلاج",
+    "english1": "70",
+    "math1": "35",
+    "arabic": "83",
+    "computerSkills1": "68",
+    "electricalProperties": "74",
+    "physics": "46"
+  },
+  {
+    "subscriptionNumber": "5051",
+    "fullName": "مريم محمد خلف",
+    "english1": "46",
+    "math1": "53",
+    "arabic": "79",
+    "computerSkills1": "61",
+    "electricalProperties": "64",
+    "physics": "61"
+  },
+  {
+    "subscriptionNumber": "0",
+    "fullName": "مصطفى ابراهيم المحمد",
+    "english1": "0",
+    "math1": "0",
+    "arabic": "0",
+    "computerSkills1": "0",
+    "electricalProperties": "0",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "0",
+    "fullName": "مصطفى مازن أمنه",
+    "english1": "0",
+    "math1": "0",
+    "arabic": "0",
+    "computerSkills1": "0",
+    "electricalProperties": "0",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "5223",
+    "fullName": "معروف باسم حاتم",
+    "english1": "60",
+    "math1": "65",
+    "arabic": "77",
+    "computerSkills1": "74",
+    "electricalProperties": "62",
+    "physics": "40"
+  },
+  {
+    "subscriptionNumber": "4994",
+    "fullName": "مقداد صادق محمد",
+    "english1": "58",
+    "math1": "52",
+    "arabic": "79",
+    "computerSkills1": "63",
+    "electricalProperties": "58",
+    "physics": "36"
+  },
+  {
+    "subscriptionNumber": "5224",
+    "fullName": "مقداد فائز حبيب",
+    "english1": "52",
+    "math1": "40",
+    "arabic": "70",
+    "computerSkills1": "66",
+    "electricalProperties": "38",
+    "physics": "21"
+  },
+  {
+    "subscriptionNumber": "0",
+    "fullName": "ملاك راغب البلال",
+    "english1": "0",
+    "math1": "0",
+    "arabic": "0",
+    "computerSkills1": "0",
+    "electricalProperties": "0",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "4997",
+    "fullName": "منتجب الدين واصف ونوس",
+    "english1": "32",
+    "math1": "71",
+    "arabic": "71",
+    "computerSkills1": "71",
+    "electricalProperties": "92",
+    "physics": "64"
+  },
+  {
+    "subscriptionNumber": "5395",
+    "fullName": "منير باسل عثمان",
+    "english1": "0",
+    "math1": "0",
+    "arabic": "0",
+    "computerSkills1": "0",
+    "electricalProperties": "0",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "5202",
+    "fullName": "مهدي بسام غانم",
+    "english1": "78",
+    "math1": "43",
+    "arabic": "77",
+    "computerSkills1": "58",
+    "electricalProperties": "40",
+    "physics": "20"
+  },
+  {
+    "subscriptionNumber": "5284",
+    "fullName": "مهيار هشام ابراهيم",
+    "english1": "82",
+    "math1": "71",
+    "arabic": "83",
+    "computerSkills1": "84",
+    "electricalProperties": "66",
+    "physics": "40"
+  },
+  {
+    "subscriptionNumber": "4995",
+    "fullName": "مي نورس يوسف",
+    "english1": "88",
+    "math1": "83",
+    "arabic": "91",
+    "computerSkills1": "87",
+    "electricalProperties": "92",
+    "physics": "90"
+  },
+  {
+    "subscriptionNumber": "5180",
+    "fullName": "ميار عبد الكريم جوخدار",
+    "english1": "84",
+    "math1": "75",
+    "arabic": "89",
+    "computerSkills1": "74",
+    "electricalProperties": "86",
+    "physics": "81"
+  },
+  {
+    "subscriptionNumber": "5213",
+    "fullName": "ميرا ابراهيم عبد الله",
+    "english1": "98",
+    "math1": "61",
+    "arabic": "92",
+    "computerSkills1": "80",
+    "electricalProperties": "68",
+    "physics": "46"
+  },
+  {
+    "subscriptionNumber": "5179",
+    "fullName": "ميس صالح الركاد",
+    "english1": "96",
+    "math1": "85",
+    "arabic": "96",
+    "computerSkills1": "92",
+    "electricalProperties": "94",
+    "physics": "94"
+  },
+  {
+    "subscriptionNumber": "5367",
+    "fullName": "ميلاد اسامه سلمان",
+    "english1": "84",
+    "math1": "0",
+    "arabic": "77",
+    "computerSkills1": "0",
+    "electricalProperties": "78",
+    "physics": "24"
+  },
+  {
+    "subscriptionNumber": "5264",
+    "fullName": "نادر صبحي ياسين",
+    "english1": "42",
+    "math1": "13",
+    "arabic": "51",
+    "computerSkills1": "47",
+    "electricalProperties": "26",
+    "physics": "21"
+  },
+  {
+    "subscriptionNumber": "4937",
+    "fullName": "ناصر محمد علي عثمان",
+    "english1": "0",
+    "math1": "0",
+    "arabic": "0",
+    "computerSkills1": "0",
+    "electricalProperties": "0",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "5041",
+    "fullName": "نايا باسل حسن",
+    "english1": "86",
+    "math1": "54",
+    "arabic": "86",
+    "computerSkills1": "70",
+    "electricalProperties": "64",
+    "physics": "55"
+  },
+  {
+    "subscriptionNumber": "0",
+    "fullName": "نايا نورس حميدي",
+    "english1": "50",
+    "math1": "0",
+    "arabic": "61",
+    "computerSkills1": "40",
+    "electricalProperties": "48",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "5268",
+    "fullName": "نبيل ايهم حوا",
+    "english1": "64",
+    "math1": "50",
+    "arabic": "57",
+    "computerSkills1": "46",
+    "electricalProperties": "48",
+    "physics": "20"
+  },
+  {
+    "subscriptionNumber": "5032",
+    "fullName": "نديم رماء غصنه",
+    "english1": "42",
+    "math1": "37",
+    "arabic": "42",
+    "computerSkills1": "50",
+    "electricalProperties": "32",
+    "physics": "18"
+  },
+  {
+    "subscriptionNumber": "5195",
+    "fullName": "نرجس خالد طيسون",
+    "english1": "36",
+    "math1": "0",
+    "arabic": "54",
+    "computerSkills1": "49",
+    "electricalProperties": "46",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "5336",
+    "fullName": "نعمان سالم موسى",
+    "english1": "62",
+    "math1": "22",
+    "arabic": "36",
+    "computerSkills1": "40",
+    "electricalProperties": "32",
+    "physics": "23"
+  },
+  {
+    "subscriptionNumber": "5258",
+    "fullName": "نغم عزت حمود",
+    "english1": "50",
+    "math1": "25",
+    "arabic": "56",
+    "computerSkills1": "36",
+    "electricalProperties": "56",
+    "physics": "22"
+  },
+  {
+    "subscriptionNumber": "5047",
+    "fullName": "نور الدين علي عباس",
+    "english1": "60",
+    "math1": "44",
+    "arabic": "76",
+    "computerSkills1": "56",
+    "electricalProperties": "50",
+    "physics": "25"
+  },
+  {
+    "subscriptionNumber": "5060",
+    "fullName": "نور الدين مازن علي",
+    "english1": "38",
+    "math1": "28",
+    "arabic": "42",
+    "computerSkills1": "48",
+    "electricalProperties": "32",
+    "physics": "21"
+  },
+  {
+    "subscriptionNumber": "5350",
+    "fullName": "نور العين حسان عباس",
+    "english1": "32",
+    "math1": "30",
+    "arabic": "57",
+    "computerSkills1": "53",
+    "electricalProperties": "44",
+    "physics": "49"
+  },
+  {
+    "subscriptionNumber": "5043",
+    "fullName": "نور ايمن عبد الله",
+    "english1": "92",
+    "math1": "85",
+    "arabic": "99",
+    "computerSkills1": "87",
+    "electricalProperties": "88",
+    "physics": "80"
+  },
+  {
+    "subscriptionNumber": "5237",
+    "fullName": "نور خضر حسن",
+    "english1": "80",
+    "math1": "71",
+    "arabic": "99",
+    "computerSkills1": "85",
+    "electricalProperties": "76",
+    "physics": "70"
+  },
+  {
+    "subscriptionNumber": "5050",
+    "fullName": "نور سامي السيد",
+    "english1": "86",
+    "math1": "62",
+    "arabic": "85",
+    "computerSkills1": "81",
+    "electricalProperties": "70",
+    "physics": "42"
+  },
+  {
+    "subscriptionNumber": "5052",
+    "fullName": "نور سمير زيات",
+    "english1": "62",
+    "math1": "54",
+    "arabic": "73",
+    "computerSkills1": "61",
+    "electricalProperties": "48",
+    "physics": "44"
+  },
+  {
+    "subscriptionNumber": "5053",
+    "fullName": "شام هيثم الحسن",
+    "english1": "88",
+    "math1": "54",
+    "arabic": "71",
+    "computerSkills1": "68",
+    "electricalProperties": "70",
+    "physics": "37"
+  },
+  {
+    "subscriptionNumber": "5029",
+    "fullName": "نور فريز جريوه",
+    "english1": "72",
+    "math1": "81",
+    "arabic": "79",
+    "computerSkills1": "66",
+    "electricalProperties": "92",
+    "physics": "78"
+  },
+  {
+    "subscriptionNumber": "5027",
+    "fullName": "نور نديم حسن",
+    "english1": "50",
+    "math1": "62",
+    "arabic": "79",
+    "computerSkills1": "67",
+    "electricalProperties": "68",
+    "physics": "56"
+  },
+  {
+    "subscriptionNumber": "5309",
+    "fullName": "نوف طالب الدلف",
+    "english1": "86",
+    "math1": "39",
+    "arabic": "63",
+    "computerSkills1": "81",
+    "electricalProperties": "80",
+    "physics": "24"
+  },
+  {
+    "subscriptionNumber": "0",
+    "fullName": "هادي بشير القصعه",
+    "english1": "0",
+    "math1": "0",
+    "arabic": "0",
+    "computerSkills1": "0",
+    "electricalProperties": "0",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "5038",
+    "fullName": "هادي علي شحاده",
+    "english1": "90",
+    "math1": "77",
+    "arabic": "97",
+    "computerSkills1": "67",
+    "electricalProperties": "74",
+    "physics": "59"
+  },
+  {
+    "subscriptionNumber": "5261",
+    "fullName": "هادي عمر عبد الرحيم",
+    "english1": "38",
+    "math1": "52",
+    "arabic": "62",
+    "computerSkills1": "54",
+    "electricalProperties": "68",
+    "physics": "56"
+  },
+  {
+    "subscriptionNumber": "5071",
+    "fullName": "هادي عمران بربهان",
+    "english1": "26",
+    "math1": "29",
+    "arabic": "26",
+    "computerSkills1": "0",
+    "electricalProperties": "0",
+    "physics": "20"
+  },
+  {
+    "subscriptionNumber": "5348",
+    "fullName": "هادي كاسر عباس",
+    "english1": "66",
+    "math1": "88",
+    "arabic": "77",
+    "computerSkills1": "73",
+    "electricalProperties": "78",
+    "physics": "79"
+  },
+  {
+    "subscriptionNumber": "5044",
+    "fullName": "هادي معن سلوم",
+    "english1": "68",
+    "math1": "41",
+    "arabic": "79",
+    "computerSkills1": "51",
+    "electricalProperties": "66",
+    "physics": "32"
+  },
+  {
+    "subscriptionNumber": "5055",
+    "fullName": "هادي نصر حسن",
+    "english1": "54",
+    "math1": "55",
+    "arabic": "59",
+    "computerSkills1": "72",
+    "electricalProperties": "76",
+    "physics": "65"
+  },
+  {
+    "subscriptionNumber": "5037",
+    "fullName": "هادي وسام اسكندر",
+    "english1": "80",
+    "math1": "80",
+    "arabic": "85",
+    "computerSkills1": "91",
+    "electricalProperties": "78",
+    "physics": "68"
+  },
+  {
+    "subscriptionNumber": "5359",
+    "fullName": "هادي ياسر ملحم",
+    "english1": "78",
+    "math1": "84",
+    "arabic": "86",
+    "computerSkills1": "77",
+    "electricalProperties": "74",
+    "physics": "66"
+  },
+  {
+    "subscriptionNumber": "4936",
+    "fullName": "هادي يحيى خضور",
+    "english1": "60",
+    "math1": "64",
+    "arabic": "84",
+    "computerSkills1": "84",
+    "electricalProperties": "86",
+    "physics": "64"
+  },
+  {
+    "subscriptionNumber": "5383",
+    "fullName": "هاشم اياد برهوم",
+    "english1": "80",
+    "math1": "38",
+    "arabic": "49",
+    "computerSkills1": "42",
+    "electricalProperties": "64",
+    "physics": "44"
+  },
+  {
+    "subscriptionNumber": "5219",
+    "fullName": "هاشم مضر يوسف",
+    "english1": "78",
+    "math1": "53",
+    "arabic": "78",
+    "computerSkills1": "63",
+    "electricalProperties": "80",
+    "physics": "61"
+  },
+  {
+    "subscriptionNumber": "0",
+    "fullName": "هبة الله رضوان المحو الحمد",
+    "english1": "0",
+    "math1": "0",
+    "arabic": "0",
+    "computerSkills1": "0",
+    "electricalProperties": "0",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "5243",
+    "fullName": "هيا الياس مطر",
+    "english1": "66",
+    "math1": "69",
+    "arabic": "81",
+    "computerSkills1": "66",
+    "electricalProperties": "86",
+    "physics": "70"
+  },
+  {
+    "subscriptionNumber": "5252",
+    "fullName": "هيام عبد الناصر فران",
+    "english1": "78",
+    "math1": "55",
+    "arabic": "78",
+    "computerSkills1": "54",
+    "electricalProperties": "78",
+    "physics": "23"
+  },
+  {
+    "subscriptionNumber": "5042",
+    "fullName": "وائل ياسين علي",
+    "english1": "92",
+    "math1": "87",
+    "arabic": "97",
+    "computerSkills1": "93",
+    "electricalProperties": "94",
+    "physics": "67"
+  },
+  {
+    "subscriptionNumber": "5270",
+    "fullName": "ودود ايمن بدور",
+    "english1": "46",
+    "math1": "41",
+    "arabic": "63",
+    "computerSkills1": "45",
+    "electricalProperties": "46",
+    "physics": "32"
+  },
+  {
+    "subscriptionNumber": "5101",
+    "fullName": "ولاء سليمان الابراهيم",
+    "english1": "70",
+    "math1": "89",
+    "arabic": "92",
+    "computerSkills1": "87",
+    "electricalProperties": "82",
+    "physics": "88"
+  },
+  {
+    "subscriptionNumber": "5040",
+    "fullName": "يارا عبد القادر سويده",
+    "english1": "84",
+    "math1": "67",
+    "arabic": "70",
+    "computerSkills1": "74",
+    "electricalProperties": "56",
+    "physics": "47"
+  },
+  {
+    "subscriptionNumber": "5033",
+    "fullName": "يارا محمد عثمان",
+    "english1": "80",
+    "math1": "75",
+    "arabic": "86",
+    "computerSkills1": "76",
+    "electricalProperties": "78",
+    "physics": "60"
+  },
+  {
+    "subscriptionNumber": "5128",
+    "fullName": "ياسمين نبيل دواي",
+    "english1": "88",
+    "math1": "82",
+    "arabic": "99",
+    "computerSkills1": "94",
+    "electricalProperties": "90",
+    "physics": "97"
+  },
+  {
+    "subscriptionNumber": "5048",
+    "fullName": "ياسمينه بلال خوجه",
+    "english1": "84",
+    "math1": "58",
+    "arabic": "83",
+    "computerSkills1": "81",
+    "electricalProperties": "70",
+    "physics": "53"
+  },
+  {
+    "subscriptionNumber": "5240",
+    "fullName": "يحيى باسم مخلوف",
+    "english1": "92",
+    "math1": "82",
+    "arabic": "88",
+    "computerSkills1": "91",
+    "electricalProperties": "96",
+    "physics": "94"
+  },
+  {
+    "subscriptionNumber": "5059",
+    "fullName": "يزن محمد نعنوع",
+    "english1": "82",
+    "math1": "74",
+    "arabic": "79",
+    "computerSkills1": "79",
+    "electricalProperties": "70",
+    "physics": "42"
+  },
+  {
+    "subscriptionNumber": "5362",
+    "fullName": "يزن نادر إبراهيم",
+    "english1": "56",
+    "math1": "21",
+    "arabic": "0",
+    "computerSkills1": "56",
+    "electricalProperties": "46",
+    "physics": "21"
+  },
+  {
+    "subscriptionNumber": "5058",
+    "fullName": "يوسف بسام حبيب",
+    "english1": "84",
+    "math1": "74",
+    "arabic": "74",
+    "computerSkills1": "73",
+    "electricalProperties": "80",
+    "physics": "69"
+  },
+  {
+    "subscriptionNumber": "5034",
+    "fullName": "يوسف بشار حرفوش",
+    "english1": "86",
+    "math1": "96",
+    "arabic": "81",
+    "computerSkills1": "89",
+    "electricalProperties": "82",
+    "physics": "78"
+  },
+  {
+    "subscriptionNumber": "0",
+    "fullName": "يوسف حسن دمياطي",
+    "english1": "0",
+    "math1": "0",
+    "arabic": "0",
+    "computerSkills1": "0",
+    "electricalProperties": "0",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "5331",
+    "fullName": "يوسف زكريا بال",
+    "english1": "76",
+    "math1": "30",
+    "arabic": "67",
+    "computerSkills1": "95",
+    "electricalProperties": "78",
+    "physics": "0"
+  },
+  {
+    "subscriptionNumber": "5390",
+    "fullName": "يوسف نضال نجار",
+    "english1": "28",
+    "math1": "22",
+    "arabic": "52",
+    "computerSkills1": "50",
+    "electricalProperties": "50",
+    "physics": "22"
+  },
+  {
+    "subscriptionNumber": "5039",
+    "fullName": "يوسف وائل سلمان",
+    "english1": "88",
+    "math1": "75",
+    "arabic": "81",
+    "computerSkills1": "83",
+    "electricalProperties": "86",
+    "physics": "89"
+  }
+]

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl" data-theme="dark">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<title>لوحة تحكم — نتائج جامعة اللاذقية</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="bg-grid"></div>
+
+  <div class="topbar">
+    <div class="brand">
+      <div class="uni-logo"><img src="logo.png" alt="جامعة اللاذقية"></div>
+      <div class="brand-text">
+        <div class="t2">لوحة التحكم</div>
+        <div class="t1">إدارة نتائج جامعة اللاذقية</div>
+      </div>
+    </div>
+    <div class="top-actions">
+      <a class="btn" href="index.html">🏠 موقع الطلاب</a>
+      <button class="icon-btn" onclick="toggleTheme()" title="الوضع الليلي/النهاري">
+        <span id="themeIcon">☀️</span>
+      </button>
+    </div>
+  </div>
+
+  <div id="admin"></div>
+
+  <script src="config.js"></script>
+  <script src="data.js"></script>
+  <script src="grades.js"></script>
+  <script src="charts.js"></script>
+  <script src="admin.js"></script>
+</body>
+</html>
